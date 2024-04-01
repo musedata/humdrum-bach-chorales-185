@@ -115,5 +115,5 @@
 !!!EED: Craig Stuart Sapp
 !!!EEV: 2024/03/31
 !!!ONB: text messed up (probably multiple verses)
-!!!filter-keyboard: satb2gs
+!!!filter-keyboard: extract -i kern | satb2gs
 !!!title: @{OTL} (@{SCT})

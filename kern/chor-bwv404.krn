@@ -79,5 +79,5 @@
 !!!EMD: Converted from MuseData to Humdrum Dec 19, 2000, by Andreas Kornstaedt using muse2kern.
 !!!EED: Craig Stuart Sapp
 !!!EEV: 2024/03/31
-!!!filter-keyboard: satb2gs
+!!!filter-keyboard: extract -i kern | satb2gs
 !!!title: @{OTL} (@{SCT})
