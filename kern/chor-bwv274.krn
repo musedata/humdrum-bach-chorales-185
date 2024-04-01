@@ -1,0 +1,99 @@
+!!!COM: Bach, Johann Sebastian
+!!!OPR: Joh. Seb. Bachs vierstimmige Choralges‰nge
+!!!XEN: Four-part Chorales
+!!!OTL: 22. Christe, der du bist Tag und Licht
+!!!SCT: BWV 274
+!!!SCA: Thematisch-systematisches Verzeichnis der musikalischen Werke Johann Sebastian Bach: Bach-Werke-Verzeichnis (Schmieder)
+!!!YOR: Bach Gesellschaft Edition xxxix
+!!!ENC: Steven Rasmussen
+!!!CDT: 1685/3//-1750/7/28/
+!!!OCY: Deutschland
+!!!YEC: Copyright (c) 1994, 2000 Center for Computer Assisted Research in the Humanities
+!!!YEM: Rights to all derivative editions reserved
+!!!YEN: United States of America
+**kern	**silbe	**kern	**kern	**kern
+*I:[SOPRANO]	*I:[SOPRANO]	*I:[ALTO]	*I:[TENORE]	*I:[BASSO]
+*clefG2	*	*clefG2	*clefGv2	*clefF4
+*k[b-e-]	*	*k[b-e-]	*k[b-e-]	*k[b-e-]
+*g:	*	*g:	*g:	*g:
+*M4/4	*	*M4/4	*M4/4	*M4/4
+4g	Chri-	4d	8dL	8BB-L
+.	.	.	8cJ	8AAJ
+=1	=1	=1	=1	=1
+4b-	-ste,	4d	4B-	8GGL
+.	.	.	.	8AAJ
+4g	der	4d	4B-	8BB-L
+.	.	.	.	8CJ
+4f	du	4d	4A	8DL
+.	.	.	.	8CJ
+8gL	bist	8dL	8B-L	8BB-L
+8aJ	.	8f#J	8cJ	8AAJ
+=2	=2	=2	=2	=2
+4b-	Tag	4.g	4d	8GGL
+.	.	.	.	8BB-J
+4a	und	.	8e-L	8CL
+.	.	8f#	16dL	8DJ
+.	.	.	16cJJ	.
+4g;	Licht,	4d;	4B-;	4GG;
+4b-	vor	4g	4d	4G
+=3	=3	=3	=3	=3
+4b-	dir	4g	4d	8GGL
+.	.	.	.	8AAJ
+4b-	ist,	4g	4d	8BB-L
+.	.	.	.	8CJ
+4b-	Herr,	8fL	8dL	8DL
+.	.	8e-J	8GJ	8E-J
+4f	ver-	8e-L	8AL	4F
+.	.	16dL	8B-J	.
+.	.	16cJJ	.	.
+=4	=4	=4	=4	=4
+4g	-bor-	8dL	8B-L	4F
+.	.	16enL	8AJ	.
+.	.	16fJJ	.	.
+4b-	-gen	4g	8GL	4En
+.	.	.	8cJ	.
+4a;	nichts;	4f;	4c;	4F;
+4a	du	4f	8cL	8FFL
+.	.	.	8B-J	8GGJ
+=5	=5	=5	=5	=5
+4cc	v√§-	4f	8AL	8AAL
+.	.	.	8GJ	8BB-J
+4cc	-ter-	8enL	4A	8CL
+.	.	8f#J	.	8DJ
+8ccL	-li-	8gL	8GL	4.E-
+16b-L	.	8f#J	8cJ	.
+16aJJ	.	.	.	.
+8gL	-ches	8gL	8B-L	.
+8aJ	.	8dJ	8AJ	8FF#
+=6	=6	=6	=6	=6
+4b-	Lich-	(8d	8GL	8GGL
+.	.	4g)	8dJ	8BB-J
+4a	-tes	.	8e-L	8CL
+.	.	8f#	16dL	8DJ
+.	.	.	16cJJ	.
+4g;	Glanz,	4d;	4B-;	4GG;
+4a	lehr'	4f#	4d	4D
+=7	=7	=7	=7	=7
+4b-	uns	4g	4d	8GGL
+.	.	.	.	8AAJ
+4g	den	4d	4B-	8BB-L
+.	.	.	.	8CJ
+4f	Weg	4d	4A	8DL
+.	.	.	.	8CJ
+8gL	der	8dL	8B-L	8BB-L
+8aJ	.	8f#J	8cJ	8AAJ
+=8	=8	=8	=8	=8
+4b-	Wahr-	4.g	4d	8GGL
+.	.	.	.	8BB-J
+4a	-heit	.	8e-L	8CL
+.	.	8f#	16dL	8DJ
+.	.	.	16cJJ	.
+4g;	ganz.	4d;	4Bn;	4GG;
+==|!	==|!	==|!	==|!	==|!
+*-	*-	*-	*-	*-
+!!!RWG: Key is interpreted using the Humdrum key tool.
+!!!END: 1994/05/11
+!!!EMD: Converted from MuseData to Humdrum Dec 19, 2000, by Andreas Kornstaedt using muse2kern.
+!!!EED: Craig Stuart Sapp
+!!!EEV: 2024/03/31
+!!!ONB: Some non-unicode characters

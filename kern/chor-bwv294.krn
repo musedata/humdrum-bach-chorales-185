@@ -1,0 +1,158 @@
+!!!COM: Bach, Johann Sebastian
+!!!OPR: Joh. Seb. Bachs vierstimmige Choralges�nge
+!!!XEN: Four-part Chorales
+!!!OTL: 41. Der Tag, der ist so freudenreich
+!!!SCT: BWV 294
+!!!SCA: Thematisch-systematisches Verzeichnis der musikalischen Werke Johann Sebastian Bach: Bach-Werke-Verzeichnis (Schmieder)
+!!!YOR: Bach Gesellschaft Edition xxxix
+!!!ENC: Steven Rasmussen
+!!!CDT: 1685/3//-1750/7/28/
+!!!OCY: Deutschland
+!!!YEC: Copyright (c) 1994, 2000 Center for Computer Assisted Research in the Humanities
+!!!YEM: Rights to all derivative editions reserved
+!!!YEN: United States of America
+**kern	**silbe	**kern	**kern	**kern
+*I:[SOPRANO]	*I:[SOPRANO]	*I:[ALTO]	*I:[TENORE]	*I:[BASSO]
+*>[A,A,B]	*	*>[A,A,B]	*>[A,A,B]	*>[A,A,B]
+*>A	*	*>A	*>A	*>A
+*clefG2	*	*clefG2	*clefGv2	*clefF4
+*k[f#]	*	*k[f#]	*k[f#]	*k[f#]
+*G:	*	*G:	*G:	*G:
+*M4/4	*	*M4/4	*M4/4	*M4/4
+4g	Derdenn	4d	4B	8GL
+.	.	.	.	8F#J
+=1	=1	=1	=1	=1
+4g	Tag,Got-	4e	4B	8EL
+.	.	.	.	8DJ
+4g	der-tes	4e	4c	8CL
+.	.	.	.	8BBJ
+4a	istSohn	8eL	4c	4AA
+.	.	8f#J	.	.
+4b	sovom	4g	8dL	4GG
+.	.	.	8fnJ	.
+=2	=2	=2	=2	=2
+8ccL	freu-Him-	4.g	4e	4C
+8bJ	.	.	.	.
+4a	-den--mel-	.	8AL	4D
+.	.	8f#	16dL	.
+.	.	.	16cJJ	.
+2g;	-reich-reich	2d;	2B;	2GG;
+=3	=3	=3	=3	=3
+4a	al-ü-	4f#	4d	4D
+4a	-ler-ber	8eL	8cL	8AAL
+.	.	8dJ	8BJ	8BBJ
+4e	Cre-die	4.e	8BL	4C
+.	.	.	8AJ	.
+4f#	-a-Na-	.	8AL	4D
+.	.	16dLL	16BL	.
+.	.	16cJJ	16AJJ	.
+=4	=4	=4	=4	=4
+4g	-tu--tu-	8BL	4.G	4E
+.	.	8GJ	.	.
+4a	.	4d	.	4D
+.	.	.	8F#	.
+4g;	-re,-re	4d;	4B;	4GG;
+=:|!	=:|!	=:|!	=:|!	=:|!
+*>B	*	*>B	*>B	*>B
+4g	von	4d	4B	4G
+=5	=5	=5	=5	=5
+4dd	ei-	4d	8AL	4F#
+.	.	.	8cJ	.
+4dd	-ner	8gL	8BL	8GL
+.	.	8aJ	8AJ	8F#J
+4ee	Jung-	8bL	4G	4E
+.	.	8ccJ	.	.
+8ddL	-frau	8bL	4d	4F#
+8ccJ	.	8aJ	.	.
+=6	=6	=6	=6	=6
+4b	ist	4g	4d	8GL
+.	.	.	.	8F#J
+4cc#	ge-	4g	4e	4E
+4dd;	-bor'n,	4a;	4f#;	4D;
+4dd	Ma-	4a	8dL	4F#
+.	.	.	8cJ	.
+=7	=7	=7	=7	=7
+4dd	-ri-	4g	8BL	8GL
+.	.	.	8cJ	8AJ
+4dd	-a	4g	8dL	8BL
+.	.	.	8BJ	8GJ
+4ee	du	4g	8cL	4c
+.	.	.	8BJ	.
+8ddL	bist	4a	8AL	4F#
+8ccJ	.	.	8dJ	.
+=8	=8	=8	=8	=8
+4b	aus-	(8a	4d	4G
+.	.	4g)	.	.
+4a	-er-	.	8.dL	4D
+.	.	8f#	.	.
+.	.	.	16cJk	.
+2g;	-kor'n,	2d;	2B;	2GG;
+=9	=9	=9	=9	=9
+4e	dass	4c	4G	8CL
+.	.	.	.	8BBJ
+4f#	du	4c	4A	4AA
+4g	Mut-	(8d	(8D	4BB
+.	.	4B)	4G)	.
+4e	-ter	.	.	4C#
+.	.	8A	16F#LL	.
+.	.	.	16EJJ	.
+=10	=10	=10	=10	=10
+4d	wä-	8AL	4F#	4D
+.	.	8BJ	.	.
+4c#	.	4A	16ELL	4AA
+.	.	.	16F#J	.
+.	.	.	8GJ	.
+2d;	-rest.	2A;	2F#;	2DD;
+=11	=11	=11	=11	=11
+4g	Was	4e	4B	8EL
+.	.	.	.	8DJ
+4g	ge-	4e	4c	8CL
+.	.	.	.	8BBJ
+4a	-schah	8eL	4c	4AA
+.	.	8f#J	.	.
+4b	so	4g	8dL	4GG
+.	.	.	8fnJ	.
+=12	=12	=12	=12	=12
+8ccL	wun-	4.g	4e	4C
+8bJ	.	.	.	.
+4a	-der-	.	8AL	4D
+.	.	8f#	16dL	.
+.	.	.	16cJJ	.
+2g;	-lich?	2d;	2B;	2GG;
+=13	=13	=13	=13	=13
+4a	Got-	4d	8F#L	8DDL
+.	.	.	8GJ	8EEJ
+4a	-tes	4d	4A	8FF#L
+.	.	.	.	8GGJ
+4e	Sohn	4c#	4A	8AAL
+.	.	.	.	8GGJ
+4f#	vom	4d	4A	4FF#
+=14	=14	=14	=14	=14
+8gL	Him-	4d	4B	4EE
+8f#J	.	.	.	.
+4e	-mel-	4c#	8EL	4AA
+.	.	.	16AL	.
+.	.	.	16GJJ	.
+4d;	-reich	4A;	4F#;	4D;
+(4fn	der	(4d	[4G	(4BB
+=15	=15	=15	=15	=15
+4e)	.	4c)	4G]	4.C)
+4c	ist	4G	4E	.
+.	.	.	.	8BB
+4e	Mensch	4c	4A	4AA
+4f#	ge-	4d	4A	8DL
+.	.	.	.	8CJ
+=16	=16	=16	=16	=16
+4g	-bo-	4.d	4.G	8BBL
+.	.	.	.	8GGJ
+4a	.	.	.	4D
+.	.	8c	8F#	.
+4g;	-ren.	4B;	4D;	4GG;
+==|!	==|!	==|!	==|!	==|!
+*-	*-	*-	*-	*-
+!!!RWG: Key is interpreted using the Humdrum key tool.
+!!!END: 1994/05/17
+!!!EMD: Converted from MuseData to Humdrum Dec 19, 2000, by Andreas Kornstaedt using muse2kern.
+!!!EED: Craig Stuart Sapp
+!!!EEV: 2024/03/31
+!!!ONB: Some non-unicode characters

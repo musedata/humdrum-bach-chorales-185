@@ -1,0 +1,97 @@
+!!!COM: Bach, Johann Sebastian
+!!!OPR: Joh. Seb. Bachs vierstimmige Choralges‰nge
+!!!XEN: Four-part Chorales
+!!!OTL: 126. Meinen Jesum lass' ich nicht, Jesus
+!!!SCT: BWV 379
+!!!SCA: Thematisch-systematisches Verzeichnis der musikalischen Werke Johann Sebastian Bach: Bach-Werke-Verzeichnis (Schmieder)
+!!!YOR: Bach Gesellschaft Edition xxxix
+!!!ENC: Steven Rasmussen
+!!!CDT: 1685/3//-1750/7/28/
+!!!OCY: Deutschland
+!!!YEC: Copyright (c) 1994, 2000 Center for Computer Assisted Research in the Humanities
+!!!YEM: Rights to all derivative editions reserved
+!!!YEN: United States of America
+**kern	**silbe	**kern	**kern	**kern
+*I:[SOPRANO]	*I:[SOPRANO]	*I:[ALTO]	*I:[TENORE]	*I:[BASSO]
+*>[A,A,B]	*	*>[A,A,B]	*>[A,A,B]	*>[A,A,B]
+*>A	*	*>A	*>A	*>A
+*clefG2	*	*clefG2	*clefGv2	*clefF4
+*k[f#]	*	*k[f#]	*k[f#]	*k[f#]
+*G:	*	*G:	*G:	*G:
+*M4/4	*	*M4/4	*M4/4	*M4/4
+=1-	=1-	=1-	=1-	=1-
+4b	Mei-Je-	4g	4d	8GL
+.	.	.	.	8F#J
+4b	-nen-su	8gL	8eL	8EL
+.	.	8aJ	8f#J	8D#J
+4b	Je-hab'	4g	4e	8EL
+.	.	.	.	8DnJ
+4dd	-sumich	4g	4d	8CL
+.	.	.	.	8BBJ
+=2	=2	=2	=2	=2
+4cc	lass'mich	8gL	8eL	4AA
+.	.	16f#L	8cJ	.
+.	.	16eJJ	.	.
+4cc	ichver-	4f#	8AL	4D
+.	.	.	8dJ	.
+2b;	nicht,-pflicht't,	2g;	2d;	2GG;
+=3	=3	=3	=3	=3
+4b	Je-ich	4g	4d	8GGL
+.	.	.	.	8AAJ
+4b	-suswill	4g	4d	8BBL
+.	.	.	.	8CJ
+4a	wirdihn	8gL	4d	4D
+.	.	8f#J	.	.
+4b	michin's	4g	4d	4G
+=4	=4	=4	=4	=4
+4cc	auchHer-	4a	8eL	8GL
+.	.	.	8dJ	8F#J
+4b	nicht-ze	8aL	4d	8GL
+.	.	8gJ	.	8BBJ
+2a	las-fas-	8gL	8eL	4C
+.	.	16f#L	8A	.
+.	.	16eJJ	.	.
+.	.	4f#	8d	4D
+.	.	.	8cJ	.
+=5	=5	=5	=5	=5
+1g;	-sen.-sen.	1d;	1B;	1GG;
+=6:|!	=6:|!	=6:|!	=6:|!	=6:|!
+*>B	*	*>B	*>B	*>B
+4b	Weiss	4g	4d	8GGL
+.	.	.	.	8AAJ
+4b	ge-	4g	4d	8BBL
+.	.	.	.	8CJ
+4a	-wiss	4g	4.d	8DL
+.	.	.	.	8EJ
+4a	und	4f#	.	8F#L
+.	.	.	8c	8D#J
+=7	=7	=7	=7	=7
+4g	glau-	4f#	4B	8EL
+.	.	.	.	8F#J
+4g	-be	4e	4B	8GL
+.	.	.	.	8AJ
+2f#;	fest,	2d#;	2B;	2B;
+=8	=8	=8	=8	=8
+4ee	dass	8eL	8gL	(8C
+.	.	8f#J	8aJ	4c)
+4dd	mich	4g	4d	.
+.	.	.	.	8B
+4cc	Je-	8gL	8eL	(8AA
+.	.	8f#J	8cJ	4A)
+4b	-sus	4g	4d	.
+.	.	.	.	8G
+=9	=9	=9	=9	=9
+4a	auch	8gL	8eL	4C
+.	.	16f#L	8AJ	.
+.	.	16eJJ	.	.
+4a	nicht	4f#	8dL	4D
+.	.	.	8cJ	.
+2g;	l√§sst.	2d;	2B;	2GG;
+==|!	==|!	==|!	==|!	==|!
+*-	*-	*-	*-	*-
+!!!RWG: Key is interpreted using the Humdrum key tool.
+!!!END: 1994/07/18
+!!!EMD: Converted from MuseData to Humdrum Dec 19, 2000, by Andreas Kornstaedt using muse2kern.
+!!!EED: Craig Stuart Sapp
+!!!EEV: 2024/03/31
+!!!ONB: Some non-unicode characters

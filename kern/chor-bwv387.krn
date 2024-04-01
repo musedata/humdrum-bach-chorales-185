@@ -1,0 +1,97 @@
+!!!COM: Bach, Johann Sebastian
+!!!OPR: Joh. Seb. Bachs vierstimmige Choralges‰nge
+!!!XEN: Four-part Chorales
+!!!OTL: 134. Nun freut euch, Gottes Kinder all
+!!!SCT: BWV 387
+!!!SCA: Thematisch-systematisches Verzeichnis der musikalischen Werke Johann Sebastian Bach: Bach-Werke-Verzeichnis (Schmieder)
+!!!YOR: Bach Gesellschaft Edition xxxix
+!!!ENC: Steven Rasmussen
+!!!CDT: 1685/3//-1750/7/28/
+!!!OCY: Deutschland
+!!!YEC: Copyright (c) 1994, 2000 Center for Computer Assisted Research in the Humanities
+!!!YEM: Rights to all derivative editions reserved
+!!!YEN: United States of America
+**kern	**silbe	**kern	**kern	**kern
+*I:[SOPRANO]	*I:[SOPRANO]	*I:[ALTO]	*I:[TENORE]	*I:[BASSO]
+*clefG2	*	*clefG2	*clefGv2	*clefF4
+*k[]	*	*k[]	*k[]	*k[]
+*a:	*	*a:	*a:	*a:
+*M4/4	*	*M4/4	*M4/4	*M4/4
+4d	Nun	4A	4F	8DL
+.	.	.	.	8EJ
+=1	=1	=1	=1	=1
+4d	freut	8AL	4F	4F
+.	.	8BJ	.	.
+4c	euch,	4c	4G	8FL
+.	.	.	.	8EJ
+4f	Got-	4d	8AL	4D
+.	.	.	8FJ	.
+4g	-tes	4e	4c	8CL
+.	.	.	.	8BBJ
+=2	=2	=2	=2	=2
+4.a	Kin-	4e	8cL	4AA
+.	.	.	16BL	.
+.	.	.	16AJJ	.
+.	.	4e	8BL	4E
+8g#	-der	.	8dJ	.
+4a;	all,	4e;	4c;	4AA;
+4b	der	4g	4d	8GL
+.	.	.	.	8FJ
+=3	=3	=3	=3	=3
+4cc	Herr	4g	4e	8EL
+.	.	.	.	8CJ
+4b	f√§hrt	4g	8fL	8DL
+.	.	.	8dJ	8FJ
+4cc	auf	4.g	4c	8EL
+.	.	.	.	8CJ
+4a	mit	.	8cL	8FL
+.	.	16fLL	16dL	8DJ
+.	.	16eJJ	16cJJ	.
+=4	=4	=4	=4	=4
+(8b	gro-	4d	8BL	8GL
+4dd)	.	.	8AJ	8FJ
+.	.	4e	8GL	8EL
+8cc#	-ssem	.	8AJ	8AJ
+4dd;	Schall,	4f#;	4A;	4D;
+4dd	lob-	8gL	4d	4BB
+.	.	8fnJ	.	.
+=5	=5	=5	=5	=5
+4cc	-sin-	4e	4.G	8CL
+.	.	.	.	8EJ
+4a	-get	4c	.	4F
+.	.	.	8F	.
+4f	ihm,	4c	4F	8AAL
+.	.	.	.	8FFJ
+4d	lob-	4B-	4F	8BB-L
+.	.	.	.	8AAJ
+=6	=6	=6	=6	=6
+4e	-sin-	8B-L	4G	4GG
+.	.	8AJ	.	.
+4d	-get	4Bn	8FL	4GG#
+.	.	.	8EJ	.
+4c#;	ihm,	4A;	4E;	4AA;
+4e	lob-	4c#	4A	4AA
+=7	=7	=7	=7	=7
+8gL	-sin-	4d	4.G	4BB
+8fJ	.	.	.	.
+4e	-get	4A	.	4C#
+.	.	.	8G	.
+4f	ihm	4A	4F	8DL
+.	.	.	.	8CnJ
+4d	mit	4B-	4F	8BB-L
+.	.	.	.	8AAJ
+=8	=8	=8	=8	=8
+4.e	hel-	8B-	8GL	4GG
+.	.	4d	8B-J	.
+.	.	.	8.AL	4AA
+8e	-ler	8c#	.	.
+.	.	.	16GJk	.
+4d;	Stimm'!	4A;	4F#;	4DD;
+==|!	==|!	==|!	==|!	==|!
+*-	*-	*-	*-	*-
+!!!RWG: Key is interpreted using the Humdrum key tool.
+!!!END: 1994/07/19
+!!!EMD: Converted from MuseData to Humdrum Dec 19, 2000, by Andreas Kornstaedt using muse2kern.
+!!!EED: Craig Stuart Sapp
+!!!EEV: 2024/03/31
+!!!ONB: Some non-unicode characters

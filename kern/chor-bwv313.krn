@@ -1,0 +1,113 @@
+!!!COM: Bach, Johann Sebastian
+!!!OPR: Joh. Seb. Bachs vierstimmige Choralges‰nge
+!!!XEN: Four-part Chorales
+!!!OTL: 60. F¸r Freuden lasst uns springen
+!!!SCT: BWV 313
+!!!SCA: Thematisch-systematisches Verzeichnis der musikalischen Werke Johann Sebastian Bach: Bach-Werke-Verzeichnis (Schmieder)
+!!!YOR: Bach Gesellschaft Edition xxxix
+!!!ENC: Steven Rasmussen
+!!!CDT: 1685/3//-1750/7/28/
+!!!OCY: Deutschland
+!!!YEC: Copyright (c) 1994, 2000 Center for Computer Assisted Research in the Humanities
+!!!YEM: Rights to all derivative editions reserved
+!!!YEN: United States of America
+**kern	**silbe	**kern	**kern	**kern
+*I:[SOPRANO]	*I:[SOPRANO]	*I:[ALTO]	*I:[TENORE]	*I:[BASSO]
+*>[A,A,B]	*	*>[A,A,B]	*>[A,A,B]	*>[A,A,B]
+*>A	*	*>A	*>A	*>A
+*clefG2	*	*clefG2	*clefGv2	*clefF4
+*k[b-e-]	*	*k[b-e-]	*k[b-e-]	*k[b-e-]
+*g:	*	*g:	*g:	*g:
+*M4/4	*	*M4/4	*M4/4	*M4/4
+4dd	F√ºrMit	8gL	8B-L	8GGL
+.	.	8f#J	8cJ	8AAJ
+=1	=1	=1	=1	=1
+4dd	Freu-Mund	4g	8dL	8BB-L
+.	.	.	16cL	8CJ
+.	.	.	16B-JJ	.
+4dd	-denund	8f#L	4A	8DL
+.	.	8gJ	.	8EnJ
+4dd	lasstHer-	(8a	8AL	8F#L
+.	.	4g)	8B-J	8GJ
+4cc	uns-zen	.	8cL	8AL
+.	.	8f#	8dJ	8DJ
+=2	=2	=2	=2	=2
+2b-	sprin-sin-	8gL	2d	8GL
+.	.	8f#J	.	8A
+.	.	4g	.	8B-
+.	.	.	.	8cJ
+4a;	-gen,-gen,	4f#;	4d;	4d;
+4dd	ihrdenn	4fn	8dL	8B-L
+.	.	.	8cJ	8AJ
+=3	=3	=3	=3	=3
+8ddL	Chri-Christ	4g	4B-	8GL
+8ee-J	.	.	.	8FJ
+4ff	-stenvom	4f	4B-	8E-L
+.	.	.	.	8DJ
+4ee-	all-Him-	4.cc	8B-L	8CL
+.	.	.	16AL	8FJ
+.	.	.	16GJJ	.
+4dd	-zu--mel-	.	8FL	8BB-L
+.	.	8b-	8fJ	8DJ
+=4	=4	=4	=4	=4
+2cc	-glei--rei-	4b-	4g	8E-L
+.	.	.	.	8CJ
+.	.	4a	4f	4F
+4dd;	-che!-che	4b-;	4f;	4BB-;
+=:|!	=:|!	=:|!	=:|!	=:|!
+*>B	*	*>B	*>B	*>B
+4dd	von	8b-L	4f	4BB-
+.	.	8aJ	.	.
+=5	=5	=5	=5	=5
+4cc	ei-	4g	8e-L	4.C
+.	.	.	8dJ	.
+4b-	-ner	4g	4en	.
+.	.	.	.	8C#
+4a	Jung-	8gL	8AL	4D
+.	.	8f#J	16dL	.
+.	.	.	16cJJ	.
+4g	-frau	4g	8B-L	8E-L
+.	.	.	16cL	8EnJ
+.	.	.	16B-JJ	.
+=6	=6	=6	=6	=6
+4a	ist	8cL	8AL	8FL
+.	.	8aJ	16dL	8F#J
+.	.	.	16cJJ	.
+4b-	ge-	8dL	16B-LL	8GL
+.	.	.	16AJ	.
+.	.	8enJ	8GJ	8C#J
+4a;	-bor'n,	4f#;	4d;	4D;
+4dd	wer	4a	4d	4F#
+=7	=7	=7	=7	=7
+4b-	hat	4a	4d	8GL
+.	.	.	.	8FJ
+4b-	zu-	8gL	8e-L	8E-L
+.	.	8fJ	8fJ	8DJ
+4cc	-vor	8fL	4g	4.C
+.	.	8e-J	.	.
+4dd	ge-	8a-L	8fL	.
+.	.	8gJ	8dJ	8BBn
+=8	=8	=8	=8	=8
+4ee-	-h√∂rt	4g	8dL	(8C
+.	.	.	8cJ	4c)
+4dd	von	4g	8dL	.
+.	.	.	8enJ	8B-
+4cc	sol-	4a	8f#L	8AL
+.	.	.	8AJ	8GJ
+4cc	-chen	8aL	8dL	8F#L
+.	.	8gJ	8e-J	8AJ
+=9	=9	=9	=9	=9
+4.dd	Din-	8f#	8dL	2D
+.	.	4g	16cL	.
+.	.	.	16B-J	.
+.	.	.	8A	.
+8cc	.	8f#	8dJ	.
+4bn;	-gen?	4g;	4d;	4G;
+==|!	==|!	==|!	==|!	==|!
+*-	*-	*-	*-	*-
+!!!RWG: Key is interpreted using the Humdrum key tool.
+!!!END: 1994/05/25
+!!!EMD: Converted from MuseData to Humdrum Dec 19, 2000, by Andreas Kornstaedt using muse2kern.
+!!!EED: Craig Stuart Sapp
+!!!EEV: 2024/03/31
+!!!ONB: Some non-unicode characters

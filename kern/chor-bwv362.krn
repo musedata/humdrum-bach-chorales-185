@@ -1,0 +1,236 @@
+!!!COM: Bach, Johann Sebastian
+!!!OPR: Joh. Seb. Bachs vierstimmige Choralges�nge
+!!!XEN: Four-part Chorales
+!!!OTL: 109. Jesu, nun sei gepreiset
+!!!SCT: BWV 362
+!!!SCA: Thematisch-systematisches Verzeichnis der musikalischen Werke Johann Sebastian Bach: Bach-Werke-Verzeichnis (Schmieder)
+!!!YOR: Bach Gesellschaft Edition xxxix
+!!!ENC: Steven Rasmussen
+!!!CDT: 1685/3//-1750/7/28/
+!!!OCY: Deutschland
+!!!YEC: Copyright (c) 1994, 2000 Center for Computer Assisted Research in the Humanities
+!!!YEM: Rights to all derivative editions reserved
+!!!YEN: United States of America
+**kern	**silbe	**kern	**silbe	**kern	**silbe	**kern	**silbe
+*I:[SOPRANO]	*I:[SOPRANO]	*I:[ALTO]	*I:[ALTO]	*I:[TENORE]	*I:[TENORE]	*I:[BASSO]	*I:[BASSO]
+*>[A,A,B,A,A,B,C]	*	*>[A,A,B]	*	*>[A,A,B]	*	*>[A,A,B]	*
+*>A	*	*>A	*	*>A	*	*>A	*
+*clefG2	*	*clefG2	*	*clefGv2	*	*clefF4	*
+*k[b-e-]	*	*k[b-e-]	*	*k[b-e-]	*	*k[b-e-]	*
+*B-:	*	*B-:	*	*B-:	*	*B-:	*
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+4dd	Je-Dass	4f	.	4B-	.	8B-L	.
+.	.	.	.	.	.	8AJ	.
+=1	=1	=1	=1	=1	=1	=1	=1
+4dd	-su,wir	8gL	.	8B-L	.	8GL	.
+.	.	8f#J	.	8cJ	.	8AJ	.
+4b-	nunha-	4g	.	4d	.	8GL	.
+.	.	.	.	.	.	8FJ	.
+4cc	sei-ben	8gL	.	4c	.	8E-L	.
+.	.	8aJ	.	.	.	8FJ	.
+4dd	ge-er-	4b-	.	4f	.	8E-L	.
+.	.	.	.	.	.	8DJ	.
+=2	=2	=2	=2	=2	=2	=2	=2
+4ee-	-prei--le-	8b-L	.	8e-L	.	4C	.
+.	.	8aJ	.	8cJ	.	.	.
+8ddL	.	4b-	.	4f	.	8DL	.
+8ccJ	.	.	.	.	.	8E-J	.
+4cc;	-set-bet	4a;	.	4f;	.	4F;	.
+4cc	zudie	4g	.	4c	.	4E-	.
+=3	=3	=3	=3	=3	=3	=3	=3
+4cc	die-neu'	4f#	.	8dL	.	4D	.
+.	.	.	.	8AJ	.	.	.
+4b-	-semfröh-	4d	.	4B-	.	8GL	.
+.	.	.	.	.	.	8FJ	.
+8b-L	neu--li-	4g	.	4c	.	4En	.
+8gJ	.	.	.	.	.	.	.
+4a	-en-che	4fn	.	4c	.	4F	.
+=4	=4	=4	=4	=4	=4	=4	=4
+2.b-;	Jahr,Zeit,	2.f;	.	2.d;	.	2.BB-;	.
+4cc	fürdie	8fL	.	8AL	.	8FL	.
+.	.	8enJ	.	8B-J	.	8GJ	.
+=5	=5	=5	=5	=5	=5	=5	=5
+4cc	dein'vol-	8fL	.	8cL	.	8AL	.
+.	.	8gJ	.	8dJ	.	8B-J	.
+4cc	Güt'-ler	8aL	.	4e-	.	4c	.
+.	.	8gJ	.	.	.	.	.
+8ccL	unsGna-	4.a	.	4d	.	4.F#	.
+16ddL	.	.	.	.	.	.	.
+16ee-JJ	.	.	.	.	.	.	.
+8ddL	be--den	.	.	4A	.	.	.
+8ccJ	.	8f#	.	.	.	8D	.
+=6	=6	=6	=6	=6	=6	=6	=6
+2b-	-wei-schwe-	8dL	.	4B-	.	8GL	.
+.	.	8e-J	.	.	.	8F	.
+.	.	4f	.	4A-	.	8E-	.
+.	.	.	.	.	.	8DJ	.
+4b-;	-set-bet	4e-;	.	4G;	.	4E-;	.
+4b-	inund	4g	.	4c	.	4En	.
+=7	=7	=7	=7	=7	=7	=7	=7
+8aL	al-ew'-	8fL	.	4c	.	4F	.
+8fJ	.	8e-J	.	.	.	.	.
+8b-L	-ler-ger	8dL	.	4B-	.	4G	.
+8ee-J	.	8e-J	.	.	.	.	.
+8ddL	NotSe-	8fL	.	4B-	.	8FL	.
+8ccJ	.	8gJ	.	.	.	8E-J	.
+4cc	und-lig-	8fL	.	4A	.	4F	.
+.	.	8e-J	.	.	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8
+2.b-;	G'fahr:-keit.	2.d;	.	2.F;	.	2.BB-;	.
+*>B	*	*	*	*	*	*	*
+=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!
+*>C	*	*>B	*	*>B	*	*>B	*
+4a	Dass	4c	.	8FL	.	4FF	.
+.	.	.	.	8AJ	.	.	.
+=9	=9	=9	=9	=9	=9	=9	=9
+4a	wir	4f	.	4c	.	8FL	.
+.	.	.	.	.	.	8GJ	.
+4a	in	4f	.	4c	.	8FL	.
+.	.	.	.	.	.	8E-J	.
+4a	gu-	8f#L	.	4d	.	8DL	.
+.	.	8gJ	.	.	.	8EnJ	.
+4a	-ter	8aL	.	8dL	.	8F#L	.
+.	.	8f#J	.	8cJ	.	8DJ	.
+=10	=10	=10	=10	=10	=10	=10	=10
+2b-	Stil-	8gL	.	4B-	.	8GL	.
+.	.	8e-J	.	.	.	8F	.
+.	.	4f	.	4A-	.	8E-	.
+.	.	.	.	.	.	8DJ	.
+4b-;	-le	4e-;	.	4G;	.	4E-;	.
+4b-	das	4g	.	4c	.	4En	.
+=11	=11	=11	=11	=11	=11	=11	=11
+4a	alt'	4f	.	4c	.	4F	.
+4a	Jahr	8e-L	.	4c	.	8CL	.
+.	.	8dJ	.	.	.	8DJ	.
+4a	hab'n	4c	.	4f	.	8E-L	.
+.	.	.	.	.	.	8GJ	.
+4a	er-	4f	.	4c	.	8FL	.
+.	.	.	.	.	.	8E-J	.
+=12	=12	=12	=12	=12	=12	=12	=12
+2b-	-fül-	4f	.	8B-L	.	8DL	.
+.	.	.	.	8A-J	.	8BB-J	.
+.	.	4e-	.	4G	.	4E-	.
+4b-;	-let.	4d;	.	4F;	.	4BB-;	.
+4dd	Wir	8fL	.	4B-	.	4B-	.
+.	.	8gJ	.	.	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13
+8ddL	woll'n	4a	.	4A	.	4F#	.
+8ccJ	.	.	.	.	.	.	.
+4b-	uns	4d	.	8B-L	.	8GL	.
+.	.	.	.	8AJ	.	8FnJ	.
+4cc	dir	8gL	.	8GL	.	8E-L	.
+.	.	8fJ	.	8AJ	.	8FJ	.
+4dd	er-	4f	.	4B-	.	8E-L	.
+.	.	.	.	.	.	8DJ	.
+=14	=14	=14	=14	=14	=14	=14	=14
+2ee-	-ge-	8e-L	.	4B-	.	4C	.
+.	.	8d	.	.	.	.	.
+.	.	8c	.	4A	.	4F	.
+.	.	8fJ	.	.	.	.	.
+4dd;	-ben	4f;	.	4B-;	.	4BB-;	.
+4dd	jetz-	4f	.	4B-	.	4B-	.
+=15	=15	=15	=15	=15	=15	=15	=15
+8ccL	-und	8fL	.	4c	.	4A	.
+8bnJ	.	8dJ	.	.	.	.	.
+8ccL	und	8e-L	.	4c	.	4A-	.
+8ffJ	.	8fJ	.	.	.	.	.
+8ee-L	im-	8gL	.	4c	.	8GL	.
+8ddJ	.	8a-J	.	.	.	8FJ	.
+4dd	-mer-	8gL	.	4Bn	.	4G	.
+.	.	8fJ	.	.	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
+!	!	! The following encoding is probabaly an error.	!	!	!	!	!
+!	!	! Music should be lowered by a 3rd.	!	!	!	!	!
+!	!	! G4     4        h     u	!	!	!	!	!
+!	!	! A4     2        q     u	!	!	!	!	!
+!	!	! measure 17	!	!	!	!	!
+!	!	! Bf4    4        h     d	!	!	!	!	!
+!	!	! A4     1        e     u  [	!	!	!	!	!
+!	!	! G4     1        e     u  ]	!	!	!	!	!
+!	!	! measure 18	!	!	!	!	!
+!	!	! F4     2        q     u	!	!	!	!	!
+!	!	! End of mistake.	!	!	!	!	!
+2cc	-dar:	2e-	.	2G	.	2C	.
+4bn	be-	4f	.	4d	.	4D	.
+=17	=17	=17	=17	=17	=17	=17	=17
+2cc	-hüt'	2g	.	4c	.	4E-	.
+.	.	.	.	4B-	.	4En	.
+4cc	uns	8fL	.	4A-	.	[4F	uns
+.	.	8e-J	.	.	.	.	.
+=18	=18	=18	=18	=18	=18	=18	=18
+2dd	Leib	4d	.	2A	.	4F]	.
+.	.	8ddL	.	.	.	4F#	Leib
+.	.	8ccJ	.	.	.	.	.
+4dd	un	8b-L	.	4B-	.	[4G	und
+.	.	8a-J	.	.	.	.	.
+=19	=19	=19	=19	=19	=19	=19	=19
+2.ee-	Le-	8gL	Le-	4Bn	.	4G]	.
+.	.	8f	.	.	.	.	.
+.	.	8e-	.	[2c	.	4A-	Le-
+.	.	8g	.	.	.	.	.
+.	.	8cc	.	.	.	4G	.
+.	.	8b-J	.	.	.	.	.
+=20	=20	=20	=20	=20	=20	=20	=20
+2dd	-ben	4a	.	4c]	.	4F#	.
+.	.	4d	-ben	4B-	.	4G	-ben
+4dd	hin-	4g	.	4B-	.	4Fn	.
+=21	=21	=21	=21	=21	=21	=21	=21
+2cc	-fort	4g	.	4B-	.	4En	.
+.	.	4f	.	8A-L	.	8FL	.
+.	.	.	.	8B-J	.	8GJ	.
+4cc	das	8e-L	.	8cL	.	4A-	.
+.	.	8fJ	.	8dJ	.	.	.
+=22	=22	=22	=22	=22	=22	=22	=22
+4cc	gan-	4g	.	4e-	.	4G	.
+8ee-L	.	4a-	.	4f	.	4F	.
+8ddJ	.	.	.	.	.	.	.
+8ccL	-ze	4g	.	4d	.	4G	.
+8bnJ	.	.	.	.	.	.	.
+=23	=23	=23	=23	=23	=23	=23	=23
+2cc;	Jahr!	2g;	.	2e-;	.	2C;	.
+4bn	be-	4g	be-	4d	be-	4G	be-
+=24	=24	=24	=24	=24	=24	=24	=24
+2cc	-hüt'	4g	-hüt'	4c	-hüt'	4A-	-hüt'
+.	.	[2f	uns	4f	.	2An	uns
+4cc	uns	.	.	4e-	uns	.	.
+=25	=25	=25	=25	=25	=25	=25	=25
+2dd	Leib	8fL]	.	8dL	Leib	4B-	Leib
+.	.	8gJ	.	8e-J	.	.	.
+.	.	4a-	Leib	4f	.	2Bn	und
+4dd	und	4g	und	8e-L	und	.	.
+.	.	.	.	8dJ	.	.	.
+=26	=26	=26	=26	=26	=26	=26	=26
+2.ee-	Le-	2g	.	4c	.	4c	.
+.	.	.	.	4B-	.	4G	.
+.	.	4f	.	4c	.	4A	.
+=27	=27	=27	=27	=27	=27	=27	=27
+2dd	-ben	2f	.	2B-	.	8B-L	.
+.	.	.	.	.	.	8c	.
+.	.	.	.	.	.	8B-	.
+.	.	.	.	.	.	8AJ	.
+4dd	hin-	4g	.	4B-	.	8GL	.
+.	.	.	.	.	.	8FJ	.
+=28	=28	=28	=28	=28	=28	=28	=28
+2cc	-fort	2g	.	4c	.	8E-L	.
+.	.	.	.	.	.	8G	.
+.	.	.	.	4d	.	8F	.
+.	.	.	.	.	.	8E-J	.
+4b-	das	4g	.	4e-	.	8DL	.
+.	.	.	.	.	.	8CJ	.
+=29	=29	=29	=29	=29	=29	=29	=29
+4b-	gan-	4f	.	4d	.	4F	.
+8ddL	.	4g	.	4e-	.	4E-	.
+8ccJ	.	.	.	.	.	.	.
+8b-L	-ze	4f	.	4c	.	4F	.
+8aJ	.	.	.	.	.	.	.
+=30	=30	=30	=30	=30	=30	=30	=30
+2.b-;	Jahr!	2.f;	.	2.d;	.	2.BB-;	.
+==|!	==|!	==|!	==|!	==|!	==|!	==|!	==|!
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!RWG: Key is interpreted using the Humdrum key tool.
+!!!END: 1994/07/08
+!!!EMD: Converted from MuseData to Humdrum Dec 19, 2000, by Andreas Kornstaedt using muse2kern.
+!!!EED: Craig Stuart Sapp
+!!!EEV: 2024/03/31
+!!!ONB: Some non-unicode characters

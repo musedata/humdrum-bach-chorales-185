@@ -1,0 +1,138 @@
+!!!COM: Bach, Johann Sebastian
+!!!OPR: Joh. Seb. Bachs vierstimmige Choralgesänge
+!!!XEN: Four-part Chorales
+!!!OTL: 159. So giebst du nun, mein Jesu, gute Nacht
+!!!SCT: BWV 412
+!!!SCA: Thematisch-systematisches Verzeichnis der musikalischen Werke Johann Sebastian Bach: Bach-Werke-Verzeichnis (Schmieder)
+!!!YOR: Bach Gesellschaft Edition xxxix
+!!!ENC: Steven Rasmussen
+!!!CDT: 1685/3//-1750/7/28/
+!!!OCY: Deutschland
+!!!YEC: Copyright (c) 1994, 2000 Center for Computer Assisted Research in the Humanities
+!!!YEM: Rights to all derivative editions reserved
+!!!YEN: United States of America
+**kern	**silbe	**kern	**kern	**kern
+*I:[SOPRANO]	*I:[SOPRANO]	*I:[ALTO]	*I:[TENORE]	*I:[BASSO]
+*clefG2	*	*clefG2	*clefGv2	*clefF4
+*k[b-]	*	*k[b-]	*k[b-]	*k[b-]
+*d:	*	*d:	*d:	*d:
+*M4/4	*	*M4/4	*M4/4	*M4/4
+4b-	So	4g	4d	4G
+=1	=1	=1	=1	=1
+4.dd	giebst	8aL	4d	4.F#
+.	.	8gJ	.	.
+.	.	4a	4d	.
+8cc	du	.	.	8F#
+4b-;	nun,	4g;	4d;	4G;
+4dd	mein	4g	4B-	8GL
+.	.	.	.	8FnJ
+=2	=2	=2	=2	=2
+4cc	Je-	4g	4c	4E-
+4b-	-su,	4f	4d	4D
+4b-	gu-	8e-L	4G	4.C
+.	.	8dJ	.	.
+4a	-te	4e-	8FL	.
+.	.	.	8E-J	8C
+=3	=3	=3	=3	=3
+2b-;	Nacht!	2d;	2F;	2BB-;
+4r	.	4r	4r	4r
+4dd	So	4f	4B-	4B-
+=4	=4	=4	=4	=4
+4.ff	stirbst	4.f	8cL	4.A
+.	.	.	8B-J	.
+.	.	.	4c	.
+8ee-	du	8f	.	8A
+4dd;	denn,	4f;	4B-;	4B-;
+8ddL	mein	4d	4A	4F#
+8ccJ	.	.	.	.
+=5	=5	=5	=5	=5
+8b-L	al-	4d	8GL	8GL
+8aJ	.	.	8AJ	8FJ
+4g	-ler-	8gL	4B-	8E-L
+.	.	8fJ	.	8DJ
+4.a	-lieb-	4g	8e-L	4C
+.	.	.	8dJ	.
+.	.	4e-	8cL	4C
+8g	-stes	.	8B-J	.
+=6	=6	=6	=6	=6
+4f#	Le-	4d	4A	4D
+4d;	-ben?	4A;	4F#;	4DD;
+4r	.	4r	4r	4r
+4a	Ja,	4f	4d	4D
+=7	=7	=7	=7	=7
+4.cc	du	8gL	4c	4.E
+.	.	8fJ	.	.
+.	.	4g	4c	.
+8b-	bist	.	.	8E
+4a	hin,	8fL	4c	4F
+.	.	8aJ	.	.
+4b-	dein	8gL	4d	4BB-
+.	.	8fJ	.	.
+=8	=8	=8	=8	=8
+4b-	Lei-	4e	4G	4C
+4a	-den	4f	8AL	4F
+.	.	.	8B-J	.
+4.g	ist	4f	4c	4.C
+.	.	8fL	4c	.
+8g	voll-	8eJ	.	8C
+=9	=9	=9	=9	=9
+2a;	-bracht.	2f;	2c;	2FF;
+4r	.	4r	4r	4r
+4a	Mein	4f	4c	8FL
+.	.	.	.	8E-J
+=10	=10	=10	=10	=10
+4b-	Gott	4f	4d	8DL
+.	.	.	.	8CJ
+4cc	ist	4f	4c	8BB-L
+.	.	.	.	8AAJ
+4dd;	tod,	4f;	4B-;	4BB-;
+8ddL	sein	4f	4d	8BB-L
+16eeL	.	.	.	8AAJ
+16ffJJ	.	.	.	.
+=11	=11	=11	=11	=11
+4.ee	Geist	8b-L	8gL	4GG
+.	.	8aJ	8fJ	.
+.	.	4bn	4e	4GG#
+8dd	ist	.	.	.
+4cc#	auf-	4a	4e	4AA
+4dd	-ge-	4a	4f	4D
+=12	=12	=12	=12	=12
+4.dd	-ge-	2a	8eL	2AA
+.	.	.	8dJ	.
+.	.	.	4e	.
+8cc#	.	.	.	.
+4dd;	-ben,	4a;	4f#;	4D;
+4f#	mein	4d	4A	8DL
+.	.	.	.	8CJ
+=13	=13	=13	=13	=13
+4g	Gott	4d	4B-	8BB-L
+.	.	.	.	8AAJ
+4a	ist	4d	4A	8GGL
+.	.	.	.	8FF#J
+4b-;	tod,	4d;	4G;	4GG;
+8gL	sein	8gL	4B-	8E-L
+16aL	.	8fJ	.	8DJ
+16b-JJ	.	.	.	.
+=14	=14	=14	=14	=14
+4.a	Geist	8e-L	8cL	4C
+.	.	8dJ	8B-J	.
+.	.	4en	4A	4C#
+8g	ist	.	.	.
+4f#	auf-	4d	4A	8DL
+.	.	.	.	8CnJ
+4g	-ge-	4d	4B-	8BB-L
+.	.	.	.	8GGJ
+=15	=15	=15	=15	=15
+4.g	-ge-	2d	8AL	2D
+.	.	.	8GJ	.
+.	.	.	4A	.
+8f#	.	.	.	.
+2g;	-ben.	2d;	2Bn;	2GG;
+==|!	==|!	==|!	==|!	==|!
+*-	*-	*-	*-	*-
+!!!RWG: Key is interpreted using the Humdrum key tool.
+!!!END: 1994/07/29
+!!!EMD: Converted from MuseData to Humdrum Dec 19, 2000, by Andreas Kornstaedt using muse2kern.
+!!!EED: Craig Stuart Sapp
+!!!EEV: 2024/03/31
+!!!ONB: Some non-unicode characters

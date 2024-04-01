@@ -1,0 +1,150 @@
+!!!COM: Bach, Johann Sebastian
+!!!OPR: Joh. Seb. Bachs vierstimmige Choralgesänge
+!!!XEN: Four-part Chorales
+!!!OTL: 176. Wenn mein Stündlein vorhanden ist
+!!!SCT: BWV 429
+!!!SCA: Thematisch-systematisches Verzeichnis der musikalischen Werke Johann Sebastian Bach: Bach-Werke-Verzeichnis (Schmieder)
+!!!YOR: Bach Gesellschaft Edition xxxix
+!!!ENC: Steven Rasmussen
+!!!CDT: 1685/3//-1750/7/28/
+!!!OCY: Deutschland
+!!!YEC: Copyright (c) 1994, 2000 Center for Computer Assisted Research in the Humanities
+!!!YEM: Rights to all derivative editions reserved
+!!!YEN: United States of America
+**kern	**silbe	**kern	**silbe	**kern	**silbe	**kern	**silbe
+*I:[SOPRANO]	*I:[SOPRANO]	*I:[ALTO]	*I:[ALTO]	*I:[TENORE]	*I:[TENORE]	*I:[BASSO]	*I:[BASSO]
+*clefG2	*	*clefG2	*	*clefGv2	*	*clefF4	*
+*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*
+*A:	*	*A:	*	*A:	*	*A:	*
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+4a	Wenn	4e	.	4c#	.	4A	.
+=1	=1	=1	=1	=1	=1	=1	=1
+4e	mein	4.e	.	4B	.	4G#	.
+4f#	StÃ¼nd-	.	.	4A	.	4F#	.
+.	.	8d#	.	.	.	.	.
+4g#	-lein	4e	.	4B	.	8EL	.
+.	.	.	.	.	.	8DJ	.
+4a	vor-	8eL	.	4c#	.	4C#	.
+.	.	8f#J	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2
+4b	-han-	8g#L	.	4d	.	4BB	.
+.	.	8f#J	.	.	.	.	.
+8cc#L	-den	4g#	.	4c#	.	4EE#	.
+8bJ	.	.	.	.	.	.	.
+4a;	ist	4f#;	.	4c#;	.	4FF#;	.
+8cc#L	und	4a	.	4f#	.	4F#	.
+8ddJ	.	.	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3
+4ee	ich	8bL	.	4e	.	8G#L	.
+.	.	8aJ	.	.	.	8F#J	.
+8eeL	soll	8g#L	.	4B	.	4E	.
+8ddJ	.	8f#J	.	.	.	.	.
+8cc#L	fahr'n	4e	.	4B	.	4A	.
+8ddJ	.	.	.	.	.	.	.
+4ee	mein'	4e	.	4A	.	4C#	.
+=4	=4	=4	=4	=4	=4	=4	=4
+2dd	Stra-	4f#	.	4A	.	4BB	.
+.	.	4e	.	4G#	.	4E	.
+4cc#;	-sse,	4e;	.	4A;	.	4AA;	.
+4cc#	so	4e	.	4A	.	4AA	.
+=5	=5	=5	=5	=5	=5	=5	=5
+4dd	g'leit'	4b	.	8AL	.	4BB	.
+.	.	.	.	8G#J	.	.	.
+4cc#	du	4e	.	4A	.	8C#L	.
+.	.	.	.	.	.	8DJ	.
+4b	mich,	8eL	.	8G#L	.	4E	.
+.	.	8dJ	.	8g#J	.	.	.
+8aL	Herr	8c#L	.	8f#L	.	8F#L	.
+8bJ	.	8BJ	.	8eJ	.	8G#J	.
+=6	=6	=6	=6	=6	=6	=6	=6
+4cc#	Je-	8AL	.	4e	.	4A	.
+.	.	8aJ	.	.	.	.	.
+4cc#	-su	16gnLL	.	4e	.	4AA	.
+.	.	16f#J	.	.	.	.	.
+.	.	8gJ	.	.	.	.	.
+4a;	Christ,	4f#;	.	4d;	.	4D;	.
+8cc#L	mit	4a	.	4e	.	8AL	.
+8ddJ	.	.	.	.	.	8BJ	.
+=7	=7	=7	=7	=7	=7	=7	=7
+4ee	HÃ¼lf'	8g#L	.	4e	.	4c#	.
+.	.	8aJ	.	.	.	.	.
+4ee	mich	4b	.	4e	.	4G#	.
+8cc#L	nicht	8aL	.	8eL	.	4A	.
+8ddJ	.	8bJ	.	8dJ	.	.	.
+4ee	ver-	4cc#	.	8c#L	.	4A#	.
+.	.	.	.	8f#J	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8
+2dd	-las-	8cc#L	.	4.f#	.	4B	.
+.	.	16bL	.	.	.	.	.
+.	.	16a#JJ	.	.	.	.	.
+.	.	4b	.	.	.	4BB	.
+.	.	.	.	8e#	.	.	.
+4cc#;	-se;	4a#;	.	4f#;	.	4F#;	.
+4cc#	mein'	4g#	.	8c#L	.	4E#	.
+.	.	.	.	8BJ	.	.	.
+=9	=9	=9	=9	=9	=9	=9	=9
+4dd	Seel'	4.f#	.	8AL	.	8F#L	.
+.	.	.	.	8BJ	.	8G#J	.
+4cc#	an	.	.	4c#	.	4A	.
+.	.	8e	.	.	.	.	.
+4b	mei-	4d	.	8F#L	.	8DL	.
+.	.	.	.	8G#J	.	8EJ	.
+8aL	-nem	4c#	.	4A	.	4F#	.
+8bJ	.	.	.	.	.	.	.
+=10	=10	=10	=10	=10	=10	=10	=10
+4cc#	letz-	4c#	.	4G#	.	8F#L	.
+.	.	.	.	.	.	16E#L	.
+.	.	.	.	.	.	16D#JJ	.
+4cc#	-ten	4c#	.	4G#	.	8E#L	.
+.	.	.	.	.	.	8C#J	.
+4a;	End'	4c#;	.	4F#;	.	4F#;	.
+4b	be-	4e	.	4G#	.	4En	.
+=11	=11	=11	=11	=11	=11	=11	=11
+4cc#	-fehl'	4e	.	4A	.	8AL	.
+.	.	.	.	.	.	8G#J	.
+4cc#	ich,	4f#	.	4A	.	8F#L	.
+.	.	.	.	.	.	8EJ	.
+4f#	Herr,	8f#L	.	4.B	.	8D#L	.
+.	.	8d#J	.	.	.	8BBJ	.
+4g#	in	4e	.	.	.	8EL	.
+.	.	.	.	8B	.	8D#J	.
+=12	=12	=12	=12	=12	=12	=12	=12
+8aL	dei-	4e	.	16ALL	.	8C#L	.
+.	.	.	.	16BJJ	.	.	.
+8g#J	.	.	.	4c#	.	8AAJ	.
+4f#	-ne	4d#	.	.	.	4BB	.
+.	.	.	.	16BLL	.	.	.
+.	.	.	.	16AJJ	.	.	.
+4e;	HÃ¤nd',	4B;	.	4G#;	.	4E;	.
+4e	du	4c#	.	4G#	.	4C#	.
+=13	=13	=13	=13	=13	=13	=13	=13
+4a	wirst	(8c#	.	8F#	.	4F#	.
+.	.	4d)	.	4f#	.	.	.
+4b	sie	.	.	.	.	4G#	.
+.	.	8e	.	16eLL	.	.	.
+.	.	.	.	16dJJ	.	.	.
+4cc#	wohl	8eL	wohl	8c#L	wohl	4.A	wohl
+.	.	8f#J	.	16BL	.	.	.
+.	.	.	.	16c#JJ	.	.	.
+8bL	.	8g#L	be-	8dL	.	.	.
+8cc#J	.	8aJ	.	8eJ	.	8Gn	.
+=14	=14	=14	=14	=14	=14	=14	=14
+4dd	.	2.a	-wah-	8A	.	4F#	.
+.	.	.	.	4f#	.	.	.
+4cc#	be-	.	.	.	.	8EL	be-
+.	.	.	.	8f#	be-	8DJ	.
+2b	-wah-	.	.	8BL	-wah-	4E	-wah-
+.	.	.	.	16c#L	.	.	.
+.	.	.	.	16dJJ	.	.	.
+.	.	4g#	.	8eL	.	4EE	.
+.	.	.	.	8dJ	.	.	.
+=15	=15	=15	=15	=15	=15	=15	=15
+2.a;	-ren.	2.e;	-ren.	2.c#;	-ren.	2.AA;	-ren.
+==|!	==|!	==|!	==|!	==|!	==|!	==|!	==|!
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!RWG: Key is interpreted using the Humdrum key tool.
+!!!END: 1994/08/08
+!!!EMD: Converted from MuseData to Humdrum Dec 19, 2000, by Andreas Kornstaedt using muse2kern.
+!!!EED: Craig Stuart Sapp
+!!!EEV: 2024/03/31
+!!!ONB: Some non-unicode characters

@@ -1,0 +1,120 @@
+!!!COM: Bach, Johann Sebastian
+!!!OPR: Joh. Seb. Bachs vierstimmige Choralgesänge
+!!!XEN: Four-part Chorales
+!!!OTL: 182. Wie bist du Seele in mir so gar betrübt
+!!!SCT: BWV 435
+!!!SCA: Thematisch-systematisches Verzeichnis der musikalischen Werke Johann Sebastian Bach: Bach-Werke-Verzeichnis (Schmieder)
+!!!YOR: Bach Gesellschaft Edition xxxix
+!!!ENC: Steven Rasmussen
+!!!CDT: 1685/3//-1750/7/28/
+!!!OCY: Deutschland
+!!!YEC: Copyright (c) 1994, 2000 Center for Computer Assisted Research in the Humanities
+!!!YEM: Rights to all derivative editions reserved
+!!!YEN: United States of America
+**kern	**silbe	**kern	**kern	**kern
+*I:[SOPRANO]	*I:[SOPRANO]	*I:[ALTO]	*I:[TENORE]	*I:[BASSO]
+*clefG2	*	*clefG2	*clefGv2	*clefF4
+*k[f#]	*	*k[f#]	*k[f#]	*k[f#]
+*e:	*	*e:	*e:	*e:
+*M4/4	*	*M4/4	*M4/4	*M4/4
+4b	Wie	8eL	8GL	8EL
+.	.	8d#J	8AJ	8F#J
+=1	=1	=1	=1	=1
+4b	bist	8eL	(8B	4G
+.	.	8BJ	4e)	.
+4a	du	8c#L	.	8GL
+.	.	8d#J	8A	8F#J
+2g	See-	8eL	2B	8EL
+.	.	8d#J	.	8F#
+.	.	4e	.	8G
+.	.	.	.	8EJ
+=2	=2	=2	=2	=2
+4f#;	-le	(8eL	4B;	4BB;
+.	.	8d#;J)	.	.
+4g	in	4e	4B	4E
+4a	mir	8eL	8AL	4F#
+.	.	8d#J	16BL	.
+.	.	.	16cJJ	.
+4g	so	4e	4B	8GL
+.	.	.	.	8EJ
+=3	=3	=3	=3	=3
+4f#	gar	4e	8c#L	4AA#
+.	.	.	8F#J	.
+4f#	be-	4d#	8BL	4BB
+.	.	.	8AJ	.
+4e;	-trÃ¼bt?	4B;	4G;	4EE;
+4f#	Dein	4d#	4B	4BB
+=4	=4	=4	=4	=4
+4g	Hei-	4e	8BL	4E
+.	.	.	8cJ	.
+4a	-land	8dL	8BL	4F#
+.	.	8cJ	8AJ	.
+2b	le-	8BL	8GL	4G
+.	.	8dJ	8BJ	.
+.	.	4g	4d	8GGL
+.	.	.	.	8BBJ
+=5	=5	=5	=5	=5
+4a;	-bet,	4f#;	4d;	4D;
+4cc	der	4e	8cL	8AL
+.	.	.	8BJ	8GJ
+4cc	dich	4d	8AL	8F#L
+.	.	.	8F#J	8DJ
+4b	ja	4d	4G	8GL
+.	.	.	.	8BBJ
+=6	=6	=6	=6	=6
+4a	treu-	4e	4G	8CL
+.	.	.	.	8AAJ
+4a	-lich	8dL	4F#	4D
+.	.	8cJ	.	.
+4g;	liebt;	4B;	4G;	4GG;
+4a	er-	4d	8F#L	8DL
+.	.	.	8GJ	8EJ
+=7	=7	=7	=7	=7
+4a	-gib	8dL	4A	8F#L
+.	.	8c#J	.	8GJ
+4a	dich	8dL	4A	8F#L
+.	.	8eJ	.	8EJ
+4a	gÃ¤nz-	4f#	4d	8DL
+.	.	.	.	8EJ
+4f#	-lich	4d	4A	8DL
+.	.	.	.	8CJ
+=8	=8	=8	=8	=8
+4g	sei-	8dL	4B	8BBL
+.	.	8eJ	.	8CJ
+4a	-nem	4f#	4c	8BBL
+.	.	.	.	8AAJ
+2b	Wil-	4g	4d	8GGL
+.	.	.	.	8AA
+.	.	4d	4G	8BB
+.	.	.	.	8CJ
+=9	=9	=9	=9	=9
+4a;	-len,	4d;	(8GL	4D;
+.	.	.	8F#;J)	.
+4f#	er	4f#	8BL	4D#
+.	.	.	8AJ	.
+4g	kann	8BL	4G	4E
+.	.	8eJ	.	.
+4a	al-	8dL	4d	4F#
+.	.	8cJ	.	.
+=10	=10	=10	=10	=10
+4b	-lein	4B	8dL	4G
+.	.	.	8fnJ	.
+4b	dein	4e	8eL	4G#
+.	.	.	8dJ	.
+4a	Trau-	8eL	4c	4A
+.	.	8d#J	.	.
+8gL	-ern	4e	4c#	4A#
+8f#J	.	.	.	.
+=11	=11	=11	=11	=11
+2f#	stil-	4e	4.B	4B
+.	.	4d#	.	4BB
+.	.	.	8A	.
+4e;	-len.	4B;	4G#;	4E;
+==|!	==|!	==|!	==|!	==|!
+*-	*-	*-	*-	*-
+!!!RWG: Key is interpreted using the Humdrum key tool.
+!!!END: 1994/08/09
+!!!EMD: Converted from MuseData to Humdrum Dec 19, 2000, by Andreas Kornstaedt using muse2kern.
+!!!EED: Craig Stuart Sapp
+!!!EEV: 2024/03/31
+!!!ONB: Some non-unicode characters

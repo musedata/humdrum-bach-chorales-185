@@ -1,0 +1,123 @@
+!!!COM: Bach, Johann Sebastian
+!!!OPR: Joh. Seb. Bachs vierstimmige Choralges�nge
+!!!XEN: Four-part Chorales
+!!!OTL: 49. Ein' feste Burg ist unser Gott
+!!!SCT: BWV 302
+!!!SCA: Thematisch-systematisches Verzeichnis der musikalischen Werke Johann Sebastian Bach: Bach-Werke-Verzeichnis (Schmieder)
+!!!YOR: Bach Gesellschaft Edition xxxix
+!!!ENC: Steven Rasmussen
+!!!CDT: 1685/3//-1750/7/28/
+!!!OCY: Deutschland
+!!!YEC: Copyright (c) 1994, 2000 Center for Computer Assisted Research in the Humanities
+!!!YEM: Rights to all derivative editions reserved
+!!!YEN: United States of America
+**kern	**silbe	**kern	**kern	**kern
+*I:[SOPRANO]	*I:[SOPRANO]	*I:[ALTO]	*I:[TENORE]	*I:[BASSO]
+*>[A,A,B]	*	*>[A,A,B]	*>[A,A,B]	*>[A,A,B]
+*>A	*	*>A	*>A	*>A
+*clefG2	*	*clefG2	*clefGv2	*clefF4
+*k[f#c#]	*	*k[f#c#]	*k[f#c#]	*k[f#c#]
+*D:	*	*D:	*D:	*D:
+*M4/4	*	*M4/4	*M4/4	*M4/4
+4dd	Ein'Er	4a	4f#	8dL
+.	.	.	.	8c#J
+=1	=1	=1	=1	=1
+4dd	fe-hilft	4d	4f#	4B
+4dd	-steuns	8dL	8BL	8AL
+.	.	8eJ	8c#J	8GJ
+8aL	Burgfrei	4f#	4d	4F#
+8bJ	.	.	.	.
+4cc#	istaus	4g	4e	4E
+=2	=2	=2	=2	=2
+8ddL	un-al-	4a	4.f#	4D
+8cc#J	.	.	.	.
+4b	-ser-ler	4g#	.	4E
+.	.	.	16eLL	.
+.	.	.	16dJJ	.
+4a;	Gott,Not,	4e;	4c#;	4AA;
+4dd	ein'die	4b	8F#L	4BB
+.	.	.	8G#J	.
+=3	=3	=3	=3	=3
+4cc#	gu-uns	4e	4A#	4C#
+4b	-tejetzt	4d	4B	8DL
+.	.	.	.	8EJ
+4a	Wehrhat	4c#	8f#L	4F#
+.	.	.	8eJ	.
+4b	undbe-	4B	4d	8GL
+.	.	.	.	8F#J
+=4	=4	=4	=4	=4
+(8gL	Waf--trof-	8c#	8e	8EL
+8f#J	.	4d	4A	8DJ
+4e)	.	.	.	4AA
+.	.	8c#	8G	.
+4d;	-fen.-fen.	4d;	4F#;	4D;
+=:|!	=:|!	=:|!	=:|!	=:|!
+*>B	*	*>B	*>B	*>B
+(4d	Der	4d	8F#L	8DL
+.	.	.	8GJ	8EJ
+=5	=5	=5	=5	=5
+4a)	.	4c#	4A	4F#
+4b	alt'	4d	8G#L	8EL
+.	.	.	8F#J	8DJ
+4a	bö-	8eL	8EL	8C#L
+.	.	8dJ	8F#J	8DJ
+4g#	-se	4B	4E	4E
+=6	=6	=6	=6	=6
+2a;	Feind,	2c#;	2E;	2AA;
+4d	mit	8dL	4A	4F#
+.	.	8eJ	.	.
+4a	Ernst	4f#	4d	8EL
+.	.	.	.	8DJ
+=7	=7	=7	=7	=7
+4b	er's	8gL	4d	4G
+.	.	8f#J	.	.
+4cc#	jetzt	4e	4A	4A
+4dd;	meint,	4f#;	4A;	4D;
+4cc#	gross	4f#	4A	4F#
+=8	=8	=8	=8	=8
+8dd	Macht	16f#LL	8BL	8BBL
+.	.	16g#JJ	.	.
+8cc#	und	8a	8eJ	8C#J
+4b	viel	8aL	8f#L	8DL
+.	.	8g#J	8eJ	8EJ
+4a;	List	4e;	4c#;	4AA;
+4b	sein	4gn	4e	8EL
+.	.	.	.	8F#J
+=9	=9	=9	=9	=9
+4b	grau-	4g	8dL	4G
+.	.	.	8eJ	.
+4a	-sam	8d#L	4f#	8F#L
+.	.	8eJ	.	8EJ
+8bL	Rüst-	4f#	4B	4D#
+8aJ	.	.	.	.
+4g	-zeug	4e	4B	4E
+=10	=10	=10	=10	=10
+4f#;	ist,	4d#;	4B;	4BB;
+4dd	auf	4f#	4B	4BB
+4cc#	Erd'n	8f#L	4A	4F#
+.	.	8eJ	.	.
+4b	ist	8dnL	8BL	4G
+.	.	8eJ	8c#J	.
+=11	=11	=11	=11	=11
+4a	nicht	8f#L	4d	8DL
+.	.	8eJ	.	8C#J
+8bL	sein's	4d	8GL	4BB
+8aJ	.	.	8F#J	.
+4g	Glei-	8eL	4E	4C#
+.	.	8AJ	.	.
+4f#	.	[4d	16F#LL	4D
+.	.	.	16GJ	.
+.	.	.	8AJ	.
+=12	=12	=12	=12	=12
+2e	.	4d]	4B	4GG
+.	.	4c#	8AL	4AA
+.	.	.	8GJ	.
+4d;	-chen.	4A;	4F#;	4DD;
+==|!	==|!	==|!	==|!	==|!
+*-	*-	*-	*-	*-
+!!!RWG: Key is interpreted using the Humdrum key tool.
+!!!END: 1994/05/18
+!!!EMD: Converted from MuseData to Humdrum Dec 19, 2000, by Andreas Kornstaedt using muse2kern.
+!!!EED: Craig Stuart Sapp
+!!!EEV: 2024/03/31
+!!!ONB: Some non-unicode characters

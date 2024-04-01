@@ -1,0 +1,94 @@
+!!!COM: Bach, Johann Sebastian
+!!!OPR: Joh. Seb. Bachs vierstimmige Choralges‰nge
+!!!XEN: Four-part Chorales
+!!!OTL: 112. Jesus, meine Zuversicht
+!!!SCT: BWV 365
+!!!SCA: Thematisch-systematisches Verzeichnis der musikalischen Werke Johann Sebastian Bach: Bach-Werke-Verzeichnis (Schmieder)
+!!!YOR: Bach Gesellschaft Edition xxxix
+!!!ENC: Steven Rasmussen
+!!!CDT: 1685/3//-1750/7/28/
+!!!OCY: Deutschland
+!!!YEC: Copyright (c) 1994, 2000 Center for Computer Assisted Research in the Humanities
+!!!YEM: Rights to all derivative editions reserved
+!!!YEN: United States of America
+**kern	**silbe	**kern	**kern	**kern
+*I:[SOPRANO]	*I:[SOPRANO]	*I:[ALTO]	*I:[TENORE]	*I:[BASSO]
+*>[A,A,B,A,A,B,C]	*	*>[A,A,B]	*>[A,A,B]	*>[A,A,B]
+*>A	*	*>A	*>A	*>A
+*clefG2	*	*clefG2	*clefGv2	*clefF4
+*k[]	*	*k[]	*k[]	*k[]
+*C:	*	*C:	*C:	*C:
+*M4/4	*	*M4/4	*M4/4	*M4/4
+=1-	=1-	=1-	=1-	=1-
+4g	Je-Die-	4e	4c	4C
+4e	-sus,-ses	8cL	4G	8CL
+.	.	8dJ	.	8BBJ
+4a	mei-weiss	4e	4c	4AA
+4b	-neich,	4e	4B	4GG#
+=2	=2	=2	=2	=2
+4cc	Zu-soll	4e	4A	8AAL
+.	.	.	.	8BBJ
+4cc	-ver-ich	4a	4e	8CL
+.	.	.	.	8DJ
+2b;	-sichtnicht	(4a	2e;	2E;
+.	.	4g#;)	.	.
+=3	=3	=3	=3	=3
+8aL	undda-	4a	4c	4F
+8bJ	.	.	.	.
+4cc	mein-rum	8gL	8cL	4E
+.	.	8eJ	8GJ	.
+4g	Hei-mich	4d	8GL	8BBL
+.	.	.	8BJ	8GGJ
+4e	-land,zu-	8dL	8GL	4C
+.	.	8GJ	8EJ	.
+=4	=4	=4	=4	=4
+4f	ist-frie-	8cL	8AL	8AAL
+.	.	8dJ	8GJ	8BBJ
+4e	im-den	8dL	4G	4C
+.	.	8cJ	.	.
+2d	Le-ge-	4c	4A	4FF
+.	.	4B	8GL	4GG
+.	.	.	8FJ	.
+=5	=5	=5	=5	=5
+1c;	-ben:-ben?	1G;	1E;	1CC;
+*>B	*	*	*	*
+=6:|!	=6:|!	=6:|!	=6:|!	=6:|!
+*>C	*	*>B	*>B	*>B
+4e	Was	4c	4G	8CL
+.	.	.	.	8CCJ
+4f#	die	4d	4A	4C
+4g#	lan-	8dL	8BL	4BB
+.	.	8fJ	8dJ	.
+4a	-ge	8eL	8cL	8CL
+.	.	8cJ	8AJ	8FJ
+=7	=7	=7	=7	=7
+4b	To-	8fL	4.A	8DL
+.	.	8dJ	.	8BBJ
+4b	-des-	8BL	.	4E
+.	.	16eL	8G#	.
+.	.	16dJJ	.	.
+2a;	-nacht	2c;	2A;	2AA;
+=8	=8	=8	=8	=8
+4b	mir	4g	4d	8GL
+.	.	.	.	8FJ
+4cc	auch	4g	4e	8EL
+.	.	.	.	8DJ
+4dd	f√ºr	4g	4d	8CL
+.	.	.	.	8BBJ
+4ee	Ge-	4g	4c	8CL
+.	.	.	.	8EJ
+=9	=9	=9	=9	=9
+4.dd	-dan-	8aL	4c	8FL
+.	.	8fJ	.	8DJ
+.	.	8dL	4B	4G
+8cc	-ken	16gL	.	.
+.	.	16fJJ	.	.
+2cc;	macht.	2e;	2G;	2C;
+==|!	==|!	==|!	==|!	==|!
+*-	*-	*-	*-	*-
+!!!RWG: Key is interpreted using the Humdrum key tool.
+!!!END: 1994/07/13
+!!!EMD: Converted from MuseData to Humdrum Dec 19, 2000, by Andreas Kornstaedt using muse2kern.
+!!!EED: Craig Stuart Sapp
+!!!EEV: 2024/03/31
+!!!ONB: Some non-unicode characters

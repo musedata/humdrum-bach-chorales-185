@@ -1,0 +1,87 @@
+!!!COM: Bach, Johann Sebastian
+!!!OPR: Joh. Seb. Bachs vierstimmige Choralges�nge
+!!!XEN: Four-part Chorales
+!!!OTL: 82. Herr Jesu Christ, mein's Lebens Licht
+!!!SCT: BWV 335
+!!!SCA: Thematisch-systematisches Verzeichnis der musikalischen Werke Johann Sebastian Bach: Bach-Werke-Verzeichnis (Schmieder)
+!!!YOR: Bach Gesellschaft Edition xxxix
+!!!ENC: Steven Rasmussen
+!!!CDT: 1685/3//-1750/7/28/
+!!!OCY: Deutschland
+!!!YEC: Copyright (c) 1994, 2000 Center for Computer Assisted Research in the Humanities
+!!!YEM: Rights to all derivative editions reserved
+!!!YEN: United States of America
+**kern	**silbe	**kern	**kern	**kern
+*I:[SOPRANO]	*I:[SOPRANO]	*I:[ALTO]	*I:[TENORE]	*I:[BASSO]
+*clefG2	*	*clefG2	*clefGv2	*clefF4
+*k[f#]	*	*k[f#]	*k[f#]	*k[f#]
+*e:	*	*e:	*e:	*e:
+*M4/4	*	*M4/4	*M4/4	*M4/4
+4b	Herr(O?	4d#	4F#	4B
+=1	=1	=1	=1	=1
+4b	Je-Je-	4e	4G	4E
+4a	-su-su,	4e	8AL	4c
+.	.	.	8GJ	.
+4b	Christ,du	4f#	4F#	4D#
+4g	mein'smein	4e	4B	4E
+=2	=2	=2	=2	=2
+8f#L	Le-Bräu-	4e	4c	4AA
+16gL	.	.	.	.
+16aJJ	.	.	.	.
+4f#	-bens-ti-	4d#	8BL	4BB
+.	.	.	8AJ	.
+4e;	Licht,-gam,	4B;	4G;	4E;
+8eL	meinder	4B	8GL	4E
+8f#J	.	.	8AJ	.
+=3	=3	=3	=3	=3
+4g	Hort,du	4e	4B	4E
+4a	meinaus	4d	4A	4F#
+4b	Trost,Lieb'	4d	4G	4G
+4a	mein'am	8dL	4F#	8DL
+.	.	8eJ	.	8C#J
+=4	=4	=4	=4	=4
+4dd	Zu-Kreu-	4f#	4B	4BB
+4cc#	-ver--zes-	8.f#L	8BL	4F#
+.	.	.	8A#J	.
+.	.	16eJk	.	.
+4b;	-sicht,-stamm	4d;	4F#;	4BB;
+4b	auffür	4e	4G	8EL
+.	.	.	.	8DJ
+=5	=5	=5	=5	=5
+4ee	Er-mich	4e	4A	4C#
+4ff#	-denden	4d	8AL	4D
+.	.	.	8BJ	.
+4ee	binTod	4e	4c#	4A
+4b	ichge-	4e#	4d	4G#
+=6	=6	=6	=6	=6
+4cc#	nur-lit-	4f#	4c#	8AL
+.	.	.	.	8BJ
+4b	ein-ten	8f#L	8G#L	4c#
+.	.	8e#J	8c#J	.
+4a;	Gast,hast,	4f#;	4c#;	4F#;
+8aL	undge-	8f#L	4d	4D
+8bJ	.	8g#J	.	.
+=7	=7	=7	=7	=7
+4cc#	drückt-nom-	4a	4e	4A
+4dd#	mich-men	4a	4f#	8G#L
+.	.	.	.	8F#J
+4ee	sehrweg	8bL	8eL	8G#L
+.	.	8cc#J	8c#J	8A#J
+4ddn	derder	8cc#L	8dL	4B
+.	.	8bJ	8f#J	.
+=8	=8	=8	=8	=8
+8cc#L	Sün-Sün-	8bL	8gL	4E
+16ddL	.	16a#L	8c#J	.
+16eeJJ	.	16g#JJ	.	.
+4cc#	-den-den	4a#	8f#L	4F#
+.	.	.	8eJ	.
+4b;	Last.Last.)	4f#;	4d#;	4BB;
+==|!	==|!	==|!	==|!	==|!
+!!!RNB1: *) Alternative text: "O Jesu, du mein Bräutigam".
+*-	*-	*-	*-	*-
+!!!RWG: Key is interpreted using the Humdrum key tool.
+!!!END: 1994/06/10
+!!!EMD: Converted from MuseData to Humdrum Dec 19, 2000, by Andreas Kornstaedt using muse2kern.
+!!!EED: Craig Stuart Sapp
+!!!EEV: 2024/03/31
+!!!ONB: Some non-unicode characters

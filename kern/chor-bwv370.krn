@@ -1,0 +1,90 @@
+!!!COM: Bach, Johann Sebastian
+!!!OPR: Joh. Seb. Bachs vierstimmige Choralges�nge
+!!!XEN: Four-part Chorales
+!!!OTL: 117. Komm, Gott Sch�pfer, heiliger Geist
+!!!SCT: BWV 370
+!!!SCA: Thematisch-systematisches Verzeichnis der musikalischen Werke Johann Sebastian Bach: Bach-Werke-Verzeichnis (Schmieder)
+!!!YOR: Bach Gesellschaft Edition xxxix
+!!!ENC: Steven Rasmussen
+!!!CDT: 1685/3//-1750/7/28/
+!!!OCY: Deutschland
+!!!YEC: Copyright (c) 1994, 2000 Center for Computer Assisted Research in the Humanities
+!!!YEM: Rights to all derivative editions reserved
+!!!YEN: United States of America
+**kern	**silbe	**kern	**kern	**kern
+*I:[SOPRANO]	*I:[SOPRANO]	*I:[ALTO]	*I:[TENORE]	*I:[BASSO]
+*clefG2	*	*clefG2	*clefGv2	*clefF4
+*k[]	*	*k[]	*k[]	*k[]
+*C:	*	*C:	*C:	*C:
+*M4/4	*	*M4/4	*M4/4	*M4/4
+4g	Komm,	8dL	4B	4G
+.	.	8eJ	.	.
+=1	=1	=1	=1	=1
+4a	Gott	4f	4c	4F
+4g	Schö-	8fL	4c	4C
+.	.	8eJ	.	.
+4f	-pfer,	8eL	4A	4D
+.	.	16dL	.	.
+.	.	16cJJ	.	.
+4g	hei-	8BL	8GL	4E
+.	.	8eJ	16cL	.
+.	.	.	16BJJ	.
+=2	=2	=2	=2	=2
+4cc	-li-	8eL	8cL	4AA
+.	.	8cJ	8fJ	.
+4dd	-ger	8gL	4B	4GG
+.	.	8fJ	.	.
+4cc;	Geist,	4e;	4G;	4C;
+4cc	be-	8cL	4A	4F
+.	.	8dJ	.	.
+=3	=3	=3	=3	=3
+4g	-such'	4e	8BL	4E
+.	.	.	8cJ	.
+4b	das	4f	4d	4D
+4cc	Herz	4g	4e	4.C
+4dd	der	4g	4d	.
+.	.	.	.	8BB
+=4	=4	=4	=4	=4
+4ee	Men-	4g	8dL	4C
+.	.	.	16cL	.
+.	.	.	16BJJ	.
+4ee	-schen	8gL	8cL	4CC
+.	.	8f#J	8AJ	.
+4dd;	dein,	4g;	4B;	4GG;
+4dd	mit	4g	4B	4G
+=5	=5	=5	=5	=5
+8eeL	Gna-	4g	8cL	4C
+8ddJ	.	.	8BJ	.
+4cc	-den	4g	4c	4E
+4a	sie	8gL	4c	4F
+.	.	8fJ	.	.
+4g	füll'	8fL	4c	4c
+.	.	8eJ	.	.
+=6	=6	=6	=6	=6
+4b	wie	4g	4d	8GL
+.	.	.	.	8FJ
+4cc#	du	4g	4e	4E
+4dd;	weisst,	4a;	4f;	4D;
+4g	dass	4e	4B	4E
+=7	=7	=7	=7	=7
+4cc	dein	8eL	4A	8AAL
+.	.	8dJ	.	8BBJ
+4a	Ge-	4e	4A	4C
+4f	-schöpf	8eL	8AL	4D
+.	.	16dL	8B-J	.
+.	.	16eJJ	.	.
+4a	soll	4f	4c	4AA
+=8	=8	=8	=8	=8
+4g	für	4f	4d	4BB
+4g	dir	4e	8dL	4C
+.	.	.	8cJ	.
+4g;	sein.	4d;	(8cL	4GG;
+.	.	.	8B;J)	.
+==|!	==|!	==|!	==|!	==|!
+*-	*-	*-	*-	*-
+!!!RWG: Key is interpreted using the Humdrum key tool.
+!!!END: 1994/07/13
+!!!EMD: Converted from MuseData to Humdrum Dec 19, 2000, by Andreas Kornstaedt using muse2kern.
+!!!EED: Craig Stuart Sapp
+!!!EEV: 2024/03/31
+!!!ONB: Some non-unicode characters

@@ -1,0 +1,107 @@
+!!!COM: Bach, Johann Sebastian
+!!!OPR: Joh. Seb. Bachs vierstimmige Choralges�nge
+!!!XEN: Four-part Chorales
+!!!OTL: 178. Wenn wir in h�chsten N�ten sein
+!!!SCT: BWV 431
+!!!SCA: Thematisch-systematisches Verzeichnis der musikalischen Werke Johann Sebastian Bach: Bach-Werke-Verzeichnis (Schmieder)
+!!!YOR: Bach Gesellschaft Edition xxxix
+!!!ENC: Steven Rasmussen
+!!!CDT: 1685/3//-1750/7/28/
+!!!OCY: Deutschland
+!!!YEC: Copyright (c) 1994, 2000 Center for Computer Assisted Research in the Humanities
+!!!YEM: Rights to all derivative editions reserved
+!!!YEN: United States of America
+**kern	**silbe	**kern	**silbe	**kern	**silbe	**kern	**silbe
+*I:[SOPRANO]	*I:[SOPRANO]	*I:[ALTO]	*I:[ALTO]	*I:[TENORE]	*I:[TENORE]	*I:[BASSO]	*I:[BASSO]
+*clefG2	*	*clefG2	*	*clefGv2	*	*clefF4	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
+*F:	*	*F:	*	*F:	*	*F:	*
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+4f	Wenn	4c	.	8AL	.	8FL	.
+.	.	.	.	8GJ	.	8EJ	.
+=1	=1	=1	=1	=1	=1	=1	=1
+4f	wir	8cL	.	4F	.	4D	.
+.	.	8BnJ	.	.	.	.	.
+4g	in	4c	.	8cL	.	8EL	.
+.	.	.	.	8B-J	.	8CJ	.
+4a	höch-	8cL	.	8AL	höch-	4F	höch-
+.	.	8dJ	.	8B-J	.	.	.
+8gL	-sten	4e	.	4c	.	4C	-sten
+8aJ	.	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2
+4b-	Nö-	8fL	Nö-	8FL	.	8DL	Nö-
+.	.	[8gJ	.	8cJ	.	8EJ	.
+4a	.	8gL]	.	4c	-sten	4F	.
+.	.	[8fJ	.	.	.	.	.
+4.g	.	8fL]	.	8dL	Nö-	4BB-	.
+.	.	16eL	.	8B-J	.	.	.
+.	.	16dJJ	.	.	.	.	.
+.	.	4e	-ten	8GL	-ten	4C	-ten
+8g	-ten	.	.	16cL	.	.	.
+.	.	.	.	16B-JJ	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3
+2f;	sein	2c;	.	2A;	.	2FF;	.
+4r	.	4r	.	4r	.	4r	.
+4a	und	4f	.	4c	.	8FL	.
+.	.	.	.	.	.	8E-J	.
+=4	=4	=4	=4	=4	=4	=4	=4
+4b-	wis-	8fL	.	8dL	.	8DL	.
+.	.	8gJ	.	8cJ	.	8EJ	.
+4a	-sen	8gL	.	4c	.	4F	.
+.	.	8fJ	.	.	.	.	.
+4g	nicht,	8fL	.	(8d	.	8BBnL	.
+.	.	8eJ	.	4c)	.	8CJ	.
+4f	wo	4d	.	.	.	4D	.
+.	.	.	.	8Bn	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5
+4e	aus	4G	.	4c	.	8CL	.
+.	.	.	.	.	.	8BB-J	.
+4f	und	4c	.	4F	.	8AAL	.
+.	.	.	.	.	.	8FFJ	.
+4g;	ein,	4c;	.	4E;	.	4C;	.
+4cc	und	8eL	.	4A	.	4AA	.
+.	.	8f#J	.	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6
+4b-	fin-	8gL	.	8dL	.	4GG	.
+.	.	8eJ	.	8c#J	.	.	.
+4a	-den	8fL	.	4d	.	8DL	.
+.	.	8eJ	.	.	.	8CJ	.
+8gL	we-	4.d	.	4G	.	4BBn	.
+8fJ	.	.	.	.	.	.	.
+4e	-der	.	.	4G	.	4C	.
+.	.	8c	.	.	.	.	.
+=7	=7	=7	=7	=7	=7	=7	=7
+4f	Hülf'	8cL	.	4A	.	4FF	.
+.	.	16dL	.	.	.	.	.
+.	.	16cJJ	.	.	.	.	.
+4d	noch	4Bn	.	8GL	.	4GG	.
+.	.	.	.	8FJ	.	.	.
+4c;	Rat,	4G;	.	4E;	.	4C;	.
+4a	ob	8fL	.	4c	.	4FF	.
+.	.	8e-J	.	.	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8
+4b-	wir	8dL	.	4B-	.	4GG	.
+.	.	8eJ	.	.	.	.	.
+4a	gleich	4f	.	4c	.	8AAL	.
+.	.	.	.	.	.	8BB-J	.
+4g	sor-	8fL	.	8.cL	.	4C	.
+.	.	8eJ	.	.	.	.	.
+.	.	.	.	16B-Jk	.	.	.
+4f	-gen	8eL	.	8AL	.	4D	.
+.	.	16dL	.	8B-J	.	.	.
+.	.	16eJJ	.	.	.	.	.
+=9	=9	=9	=9	=9	=9	=9	=9
+4a	früh	4.f	.	4c	.	8AAL	.
+.	.	.	.	.	.	8BB-J	.
+4g	und	.	.	8.cL	.	4C	.
+.	.	8e	.	.	.	.	.
+.	.	.	.	16B-Jk	.	.	.
+4f;	spat.	4c;	.	4A;	.	4FF;	.
+==|!	==|!	==|!	==|!	==|!	==|!	==|!	==|!
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!RWG: Key is interpreted using the Humdrum key tool.
+!!!END: 1994/08/08
+!!!EMD: Converted from MuseData to Humdrum Dec 19, 2000, by Andreas Kornstaedt using muse2kern.
+!!!EED: Craig Stuart Sapp
+!!!EEV: 2024/03/31
+!!!ONB: Some non-unicode characters

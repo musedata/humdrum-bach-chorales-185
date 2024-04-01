@@ -1,0 +1,116 @@
+!!!COM: Bach, Johann Sebastian
+!!!OPR: Joh. Seb. Bachs vierstimmige Choralges�nge
+!!!XEN: Four-part Chorales
+!!!OTL: 106. Jesu, meiner Seelen Wonne
+!!!SCT: BWV 359
+!!!SCA: Thematisch-systematisches Verzeichnis der musikalischen Werke Johann Sebastian Bach: Bach-Werke-Verzeichnis (Schmieder)
+!!!YOR: Bach Gesellschaft Edition xxxix
+!!!ENC: Steven Rasmussen
+!!!CDT: 1685/3//-1750/7/28/
+!!!OCY: Deutschland
+!!!YEC: Copyright (c) 1994, 2000 Center for Computer Assisted Research in the Humanities
+!!!YEM: Rights to all derivative editions reserved
+!!!YEN: United States of America
+**kern	**silbe	**kern	**kern	**kern
+*I:[SOPRANO]	*I:[SOPRANO]	*I:[ALTO]	*I:[TENORE]	*I:[BASSO]
+*>[A,A,B]	*	*>[A,A,B]	*>[A,A,B]	*>[A,A,B]
+*>A	*	*>A	*>A	*>A
+*clefG2	*	*clefG2	*clefGv2	*clefF4
+*k[f#c#g#]	*	*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]
+*A:	*	*A:	*A:	*A:
+*M4/4	*	*M4/4	*M4/4	*M4/4
+=1-	=1-	=1-	=1-	=1-
+4cc#	Je-Je-(Je-Je-?	4a	4e	4A
+4dd	-su,-su,-su,-su,	4a	4f#	4F#
+4ee	mei-mei-mei-mei-	4g#	8eL	4C#
+.	.	.	8dJ	.
+4ee	-ner-ne-ner-ner	4a	4c#	4F#
+=2	=2	=2	=2	=2
+4dd	See-Freu-Freu-See-	8aL	4d	4BB
+.	.	8g#J	.	.
+4cc#	-len-den--den-len	4a	4e	8C#L
+.	.	.	.	8DJ
+4b	Won--son-Freu-Wei-	4g#	4e	4E
+4b;	-ne,-ne,-de,-de,	4g#;	4e;	4E;
+=3	=3	=3	=3	=3
+4cc#	Je-Je-Je-Je-	4a	4e	8AL
+.	.	.	.	8G#J
+4dd	-su,-su,-su,-su,	4a	4f#	4F#
+8eeL	mei-dirmei-mei-	4.b	4.e	4G#
+8ddJ	.	.	.	.
+4cc#	-neist-nes-ne	.	.	4A
+.	.	8a	16f#LL	.
+.	.	.	16gnJJ	.
+=4	=4	=4	=4	=4
+4b	be-jaGlau-Zu-	4a	4f#	4D
+4b	-stebe--bens-ver-	4g#	8eL	4E
+.	.	.	8dJ	.
+2a;	Lust,-wusst,Licht,-sicht,	2e;	2c#;	2AA;
+=5:|!	=5:|!	=5:|!	=5:|!	=5:|!
+*>B	*	*>B	*>B	*>B
+4b	wieo	4g#	4e	4E
+4cc#	ichwie	4a#	4e	8DL
+.	.	.	.	8C#J
+4dd	dichkömmt	4b	4f#	8BBL
+.	.	.	.	8C#J
+4dd	sodein	4b	4f#	8DL
+.	.	.	.	8EJ
+=6	=6	=6	=6	=6
+4cc#	herz-Na-	4b	8f#L	4F#
+.	.	.	8gnJ	.
+4cc#	-lich-me	4a#	8f#L	4F#
+.	.	.	8eJ	.
+2b;	lieb'mir	2f#;	2d;	2BB;
+=7	=7	=7	=7	=7
+4dd	unso	4f#	4d	4B
+4ee	michge-	4a	4c#	8AL
+.	.	.	.	8GnJ
+4ff#	oh--wünscht	4.a	4d	8F#L
+.	.	.	.	8EJ
+4ff#	-neund	.	4d	4D
+.	.	16bLL	.	.
+.	.	16ccnJJ	.	.
+=8	=8	=8	=8	=8
+4ee	dichlieb-	4b	4d	4Gnx
+4ee	be--lich	8aL	4c#	4Ax
+.	.	8gnJ	.	.
+2dd;	-trüb';für.	2f#;	2A;	2D;
+=9	=9	=9	=9	=9
+4cc#	d'rum,Dein	4e	4A	8AL
+.	.	.	.	8G#J
+4dd	oGe-	4a	4A	4F#
+4ee	Je--dächt-	8eL	4B	4Gn
+.	.	8f#J	.	.
+4ee	-su,-niss,	4gn	4c#	4AA#
+=10	=10	=10	=10	=10
+4dd	kommJe-	8f#L	8c#L	4BB
+.	.	8g#J	8BJ	.
+4cc#	zu-su,	8eL	8BL	8C#L
+.	.	8f#J	8AJ	8DJ
+4b	mir,ma-	4g#	4e	4E
+4b;	|-chet,	4g#;	4e;	4E;
+=11	=11	=11	=11	=11
+4cc#	unddass	4a	4e	8AAL
+.	.	.	.	8AJ
+4dd	bleib'mein	4a	4f#	8G#L
+.	.	.	.	8F#J
+8eeL	beitrau-	8bL	4e	8G#L
+8ddJ	.	8g#J	.	8EJ
+4cc#	mir-rig's	4a	4e	8AL
+.	.	.	.	8C#J
+=12	=12	=12	=12	=12
+4b	fürHer-	4a	4f#	8DL
+.	.	.	.	8BBJ
+4b	und-ze	4g#	8eL	4E
+.	.	.	8dJ	.
+2a;	für!la-\0+chet.)	2e;	2c#;	2AA;
+==|!	==|!	==|!	==|!	==|!
+!!!RNB1: * Alternative text, "Jesu, meiner Freuden Freude / Jesu, meiner Seelen Weide"
+*-	*-	*-	*-	*-
+!!!RWG: Key is interpreted using the Humdrum key tool.
+!!!END: 1994/07/08
+!!!EMD: Converted from MuseData to Humdrum Dec 19, 2000, by Andreas Kornstaedt using muse2kern.
+!!!EED: Craig Stuart Sapp
+!!!EEV: 2024/03/31
+!!!ONB: text messed up (probably multiple verses)
+!!!ONB: Some non-unicode characters

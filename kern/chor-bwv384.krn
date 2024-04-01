@@ -1,0 +1,81 @@
+!!!COM: Bach, Johann Sebastian
+!!!OPR: Joh. Seb. Bachs vierstimmige Choralges�nge
+!!!XEN: Four-part Chorales
+!!!OTL: 131. Nicht so traurig, nicht so sehr
+!!!SCT: BWV 384
+!!!SCA: Thematisch-systematisches Verzeichnis der musikalischen Werke Johann Sebastian Bach: Bach-Werke-Verzeichnis (Schmieder)
+!!!YOR: Bach Gesellschaft Edition xxxix
+!!!ENC: Steven Rasmussen
+!!!CDT: 1685/3//-1750/7/28/
+!!!OCY: Deutschland
+!!!YEC: Copyright (c) 1994, 2000 Center for Computer Assisted Research in the Humanities
+!!!YEM: Rights to all derivative editions reserved
+!!!YEN: United States of America
+**kern	**silbe	**kern	**kern	**kern
+*I:[SOPRANO]	*I:[SOPRANO]	*I:[ALTO]	*I:[TENORE]	*I:[BASSO]
+*>[A,A,B]	*	*>[A,A,B]	*>[A,A,B]	*>[A,A,B]
+*>A	*	*>A	*>A	*>A
+*clefG2	*	*clefG2	*clefGv2	*clefF4
+*k[b-e-a-]	*	*k[b-e-a-]	*k[b-e-a-]	*k[b-e-a-]
+*c:	*	*c:	*c:	*c:
+*M4/4	*	*M4/4	*M4/4	*M4/4
+4ee-	Nichtdass	4g	4c	4C
+8ddL	sodir	4f	4Bn	4D
+8ccJ	.	.	.	.
+=1	=1	=1	=1	=1
+4gg	trau-Gott	8e-L	4c	4E-
+.	.	8fJ	.	.
+8ffL	-rig,Glück,	4g	4c	4C
+8ee-J	.	.	.	.
+4dd	nichtGut	4a-	4c	4F
+8ee-L	sound	8gL	8BnL	8GL
+8ffJ	.	8fJ	8cJ	8A-J
+=2	=2	=2	=2	=2
+2bn;	sehr,Ehr'	2g;	2d;	2G;
+8ccL	mei-nicht	4g	4c	8E-L
+8ddJ	.	.	.	8DJ
+4ee-	-neso	4g	4c	4C
+=3	=3	=3	=3	=3
+4a-	See-viel,	4f	8cL	4F
+.	.	.	8dJ	.
+4g	-le,wie	4B-	4e-	8GL
+.	.	.	.	8A-J
+4f	seiAn-	4B-	4e-	4B-
+4b-	be--dern	4f	4d	4BB-
+=4	=4	=4	=4	=4
+2g;	-trübt,gibt;	2e-;	2B-;	2E-;
+=:|!	=:|!	=:|!	=:|!	=:|!
+*>B	*	*>B	*>B	*>B
+4gg	nimm	4e-	4B-	4E-
+4b-	für-	4e-	4B-	4G
+=5	=5	=5	=5	=5
+4an	-lieb	4f	4c	8FL
+.	.	.	.	8E-J
+4b-	mit	4f	4B-	4D
+4ee-	dei-	4g	4B-	4C
+8ddL	-nem	4f	4An	4F
+8ccJ	.	.	.	.
+=6	=6	=6	=6	=6
+2dd;	Gott;	2f;	2B-;	2BB-;
+4dd	hast	4f	4B-	4B-
+8ee-L	du	4f	4c	4A-
+8ffJ	.	.	.	.
+=7	=7	=7	=7	=7
+4bn	Gott,	4g	4d	8GL
+.	.	.	.	8FJ
+4gg	so	4g	4c	8E-L
+.	.	.	.	8FJ
+4ee-	hat's	4g	4.c	4G
+8.ddL	nicht	8.fL	.	4GG
+.	.	.	8Bn	.
+16ccJk	.	16e-Jk	.	.
+=8	=8	=8	=8	=8
+2cc;	Not.	2e-;	2G;	2C;
+==|!	==|!	==|!	==|!	==|!
+*-	*-	*-	*-	*-
+!!!RWG: Key is interpreted using the Humdrum key tool.
+!!!END: 1994/07/19
+!!!EMD: Converted from MuseData to Humdrum Dec 19, 2000, by Andreas Kornstaedt using muse2kern.
+!!!EED: Craig Stuart Sapp
+!!!EEV: 2024/03/31
+!!!ONB: Some non-unicode characters

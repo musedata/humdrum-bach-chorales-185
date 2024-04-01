@@ -1,0 +1,84 @@
+!!!COM: Bach, Johann Sebastian
+!!!OPR: Joh. Seb. Bachs vierstimmige Choralges‰nge
+!!!XEN: Four-part Chorales
+!!!OTL: 143. Nun sich der Tag geendet hat
+!!!SCT: BWV 396
+!!!SCA: Thematisch-systematisches Verzeichnis der musikalischen Werke Johann Sebastian Bach: Bach-Werke-Verzeichnis (Schmieder)
+!!!YOR: Bach Gesellschaft Edition xxxix
+!!!ENC: Steven Rasmussen
+!!!CDT: 1685/3//-1750/7/28/
+!!!OCY: Deutschland
+!!!YEC: Copyright (c) 1994, 2000 Center for Computer Assisted Research in the Humanities
+!!!YEM: Rights to all derivative editions reserved
+!!!YEN: United States of America
+**kern	**silbe	**kern	**kern	**kern
+*I:[SOPRANO]	*I:[SOPRANO]	*I:[ALTO]	*I:[TENORE]	*I:[BASSO]
+*clefG2	*	*clefG2	*clefGv2	*clefF4
+*k[]	*	*k[]	*k[]	*k[]
+*a:	*	*a:	*a:	*a:
+*M4/4	*	*M4/4	*M4/4	*M4/4
+4ee	Nun	4a	4c	8AAL
+.	.	.	.	8BBJ
+=1	=1	=1	=1	=1
+4a	sich	4e	4c	8CL
+.	.	.	.	8BBJ
+4b	der	4e	4B	8AAL
+.	.	.	.	8GG#J
+4cc	Tag	8eL	8BL	4AA
+.	.	8fJ	8AJ	.
+4cc	ge-	4g	8GL	4EE
+.	.	.	8cJ	.
+=2	=2	=2	=2	=2
+4dd	-en-	4a	8cL	4FF
+.	.	.	16BL	.
+.	.	.	16AJJ	.
+4dd	-det	4g	4B	4GG
+4ee;	hat,	4g;	4c;	4CC;
+4ee	und	4g	4c	4C
+=3	=3	=3	=3	=3
+4dd	kei-	4a	4c	4FF#
+4ee	-ne	4e	4B	4GG#
+4cc	Sonn'	4e	4B	8AAL
+.	.	.	.	8BBJ
+4cc	mehr	4e	4A	8CL
+.	.	.	.	8DJ
+=4	=4	=4	=4	=4
+2b;	scheint,	2e;	(4A	2E;
+.	.	.	4G#;)	.
+4r	.	4r	4r	4r
+4ee	schl√§ft	4b	4e	4GG#
+=5	=5	=5	=5	=5
+4cc	Al-	8bL	4e	4AA
+.	.	8aJ	.	.
+4b	-les,	4g#	4e	8EL
+.	.	.	.	8DJ
+4cc	was	8aL	4e	4C
+.	.	8gnJ	.	.
+4a	sich	4f	4d	8DL
+.	.	.	.	8CJ
+=6	=6	=6	=6	=6
+4g#	ab-	8fL	8dL	8BBL
+.	.	8eJ	8BJ	8EJ
+4a	-ge-	8eL	4c	8CL
+.	.	8f#J	.	8AAJ
+4b;	-matt',	4g#;	4B;	4E;
+4ee	und	4a	4A	4C
+=7	=7	=7	=7	=7
+4dd	was	8aL	4d	4BB
+.	.	8g#J	.	.
+4cc	zu-	4a	4e	4AA
+4.b	-vor	4a	8fL	4D
+.	.	.	8d	.
+.	.	4g#	8BJ	4E
+8b	ge-	.	16eLL	.
+.	.	.	16dJJ	.
+=8	=8	=8	=8	=8
+2a;	-weint.	2e;	2c#;	2AA;
+==|!	==|!	==|!	==|!	==|!
+*-	*-	*-	*-	*-
+!!!RWG: Key is interpreted using the Humdrum key tool.
+!!!END: 1994/07/27
+!!!EMD: Converted from MuseData to Humdrum Dec 19, 2000, by Andreas Kornstaedt using muse2kern.
+!!!EED: Craig Stuart Sapp
+!!!EEV: 2024/03/31
+!!!ONB: Some non-unicode characters

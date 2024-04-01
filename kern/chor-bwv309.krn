@@ -1,0 +1,128 @@
+!!!COM: Bach, Johann Sebastian
+!!!OPR: Joh. Seb. Bachs vierstimmige Choralgesänge
+!!!XEN: Four-part Chorales
+!!!OTL: 56. Es steh'n vor Gottes Throne
+!!!SCT: BWV 309
+!!!SCA: Thematisch-systematisches Verzeichnis der musikalischen Werke Johann Sebastian Bach: Bach-Werke-Verzeichnis (Schmieder)
+!!!YOR: Bach Gesellschaft Edition xxxix
+!!!ENC: Steven Rasmussen
+!!!CDT: 1685/3//-1750/7/28/
+!!!OCY: Deutschland
+!!!YEC: Copyright (c) 1994, 2000 Center for Computer Assisted Research in the Humanities
+!!!YEM: Rights to all derivative editions reserved
+!!!YEN: United States of America
+**kern	**silbe	**kern	**kern	**kern
+*I:[SOPRANO]	*I:[SOPRANO]	*I:[ALTO]	*I:[TENORE]	*I:[BASSO]
+*>[A,A,B]	*	*>[A,A,B]	*>[A,A,B]	*>[A,A,B]
+*>A	*	*>A	*>A	*>A
+*clefG2	*	*clefG2	*clefGv2	*clefF4
+*k[b-]	*	*k[b-]	*k[b-]	*k[b-]
+*d:	*	*d:	*d:	*d:
+*M4/4	*	*M4/4	*M4/4	*M4/4
+4g	Esder	4d	4B-	4GG
+=1	=1	=1	=1	=1
+4b-	steh'nin	4g	4d	8GGL
+.	.	.	.	8AAJ
+4g	vorsei'm	4d	4B-	8BB-L
+.	.	.	.	8CJ
+4f#	Got-lie-	8dL	4A	4D
+.	.	8cJ	.	.
+4g	-tes-ben	4B-	4G	8E-L
+.	.	.	.	8DJ
+=2	=2	=2	=2	=2
+2a	Thro-Soh-	4e-	4.G	4C
+.	.	4d	.	4D
+.	.	.	8F#	.
+4b-;	-ne,-ne,	4d;	4G;	4GG;
+4b-	esder	4g	4d	4G
+=3	=3	=3	=3	=3
+4a	steh'nin	8gL	4d	4D
+.	.	8f#J	.	.
+4b-	vorsei'm	4g	4d	8GL
+.	.	.	.	8FJ
+4cc	Got-lie-	8gL	8eL	8EL
+.	.	8eJ	8cJ	8AJ
+4a	-tes-ben	8dL	8dL	8F#L
+.	.	8f#J	8cJ	8DJ
+=4	=4	=4	=4	=4
+2b-	Thro-Soh-	4d	8B-L	4G
+.	.	.	8AJ	.
+.	.	4e	4G	4C#
+4a;	-ne,-ne,	4f#;	4d;	4D;
+4b-	dieliebt	4g	4d	4GG
+=5	=5	=5	=5	=5
+4a	un-al-	8gL	8e-L	4C
+.	.	8f#J	8AJ	.
+4g	-sre-ler	4e	4B-	4C#
+4g	WÃ¤ch-Men-	4d	8B-L	4D
+.	.	.	16AL	.
+.	.	.	16GJJ	.
+4f#	-ter-schen	4d	4A	4DD
+=6	=6	=6	=6	=6
+2.g;	sind,Kind,	2.d;	2.B-;	2.GG;
+=:|!	=:|!	=:|!	=:|!	=:|!
+*>B	*	*>B	*>B	*>B
+4b-	dass	4g	4d	4GG
+=7	=7	=7	=7	=7
+4b-	er	4g	4d	8GGL
+.	.	.	.	8AAJ
+4b-	auch	4g	4d	8BB-L
+.	.	.	.	8CJ
+4a	nicht	8gL	4d	4D
+.	.	8fJ	.	.
+4b-	der	4f	4d	4BB-
+=8	=8	=8	=8	=8
+2g	Ei-	8fL	8dL	2E-
+.	.	16e-L	16cL	.
+.	.	16dJJ	16B-JJ	.
+.	.	4c	8AL	.
+.	.	.	8GJ	.
+4f#;	-nes	4d;	4A;	4D;
+4b-	ver-	4d	8GL	4G
+.	.	.	8AJ	.
+=9	=9	=9	=9	=9
+4b-	-acht'	8eL	8B-L	8GL
+.	.	8fJ	8dJ	8FJ
+4b-	will	4g	4c	8EL
+.	.	.	.	8CJ
+4a	hab'n	4g	4c	8FL
+.	.	.	.	8E-J
+4b-	so	4f	4d	8DL
+.	.	.	.	8BB-J
+=10	=10	=10	=10	=10
+2g	Klei-	8fL	4B-	8E-L
+.	.	16e-L	.	8D
+.	.	16dJJ	.	.
+.	.	4e-	4A	8C
+.	.	.	.	8AAJ
+4f#;	-nes,	4d;	4A;	4D;
+4g	als	4g	4c	4En
+=11	=11	=11	=11	=11
+8aL	je-	4f	8cL	4F
+8bnJ	.	.	8dJ	.
+4cc	-mals	8gL	4e-	8E-L
+.	.	8a-J	.	8FJ
+4cc	ist	4g	8dL	4G
+.	.	.	8cJ	.
+4b	ge-	4g	4d	4GG
+=12	=12	=12	=12	=12
+4cc;	-bor'n,	4g;	4e-;	4C;
+4a	als	4g	4en	4C#
+4b-	je-	8f#L	4d	8DL
+.	.	8gJ	.	8EJ
+4a	-mals	4a	8dL	4F#
+.	.	.	8cJ	.
+=13	=13	=13	=13	=13
+4g	ist	8dL	4B-	8GL
+.	.	8e-J	.	8CJ
+4f#	ge-	4d	8AL	4D
+.	.	.	8cJ	.
+4g;	-bor'n.	4d;	4Bn;	4GG;
+==|!	==|!	==|!	==|!	==|!
+*-	*-	*-	*-	*-
+!!!RWG: Key is interpreted using the Humdrum key tool.
+!!!END: 1994/05/25
+!!!EMD: Converted from MuseData to Humdrum Dec 19, 2000, by Andreas Kornstaedt using muse2kern.
+!!!EED: Craig Stuart Sapp
+!!!EEV: 2024/03/31
+!!!ONB: Some non-unicode characters

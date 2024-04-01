@@ -1,0 +1,171 @@
+!!!COM: Bach, Johann Sebastian
+!!!OPR: Joh. Seb. Bachs vierstimmige Choralges�nge
+!!!XEN: Four-part Chorales
+!!!OTL: 15. An Wasserfl�ssen Babylon
+!!!SCT: BWV 267
+!!!SCA: Thematisch-systematisches Verzeichnis der musikalischen Werke Johann Sebastian Bach: Bach-Werke-Verzeichnis (Schmieder)
+!!!YOR: Bach Gesellschaft Edition xxxix
+!!!ENC: Steven Rasmussen
+!!!CDT: 1685/3//-1750/7/28/
+!!!OCY: Deutschland
+!!!YEC: Copyright (c) 1994, 2000 Center for Computer Assisted Research in the Humanities
+!!!YEM: Rights to all derivative editions reserved
+!!!YEN: United States of America
+**kern	**silbe	**kern	**silbe	**kern	**silbe	**kern	**silbe
+*I:[SOPRANO]	*I:[SOPRANO]	*I:[ALTO]	*I:[ALTO]	*I:[TENORE]	*I:[TENORE]	*I:[BASSO]	*I:[BASSO]
+*>[A,A,B]	*	*>[A,A,B]	*	*>[A,A,B]	*	*>[A,A,B]	*
+*>A	*	*>A	*	*>A	*	*>A	*
+*clefG2	*	*clefG2	*	*clefGv2	*	*clefF4	*
+*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*
+*G:	*	*G:	*	*G:	*	*G:	*
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+4dd	AnalsEines	4g	.	4B	.	4G	.
+=1	=1	=1	=1	=1	=1	=1	=1
+4ee	Was-wirLämm-geht	4g	.	8cL	.	4C	.
+.	.	.	.	8BJ	.	.	.
+8ddL	-ser-ge--leinund	4f#	.	4A	.	4D	.
+8ccJ	.	.	.	.	.	.	.
+8bL	-flüs--dach-gehtbü-	4g	.	4e	.	4E	.
+8ccJ	.	.	.	.	.	.	.
+4dd	-sen-tenund-sset	4f#	.	8AL	.	8F#L	.
+.	.	.	.	8BJ	.	8GJ	.
+=2	=2	=2	=2	=2	=2	=2	=2
+8ccL	Ba-anträgtin	(8e	.	8cL	.	4A	.
+8bJ	.	4g)	.	8eJ	.	.	.
+4cc	-by-Zi-dieGe-	.	.	4d	.	4D	.
+.	.	8f#	.	.	.	.	.
+4b;	-lon-on,Schuld-duld	4g;	.	4d;	.	4G;	.
+4a	dadaderdie	4a	.	4d	.	4F#	.
+=3	=3	=3	=3	=3	=3	=3	=3
+4b	sa-wein-WeltSün-	4g	.	4d	.	8GL	.
+.	.	.	.	.	.	8F#J	.
+4cc	-ssen-tenund-den	4g	.	8GL	.	4E	.
+.	.	.	.	8AJ	.	.	.
+4dd	wirwirih-al-	4g	.	8BL	.	4BB	.
+.	.	.	.	8GJ	.	.	.
+8ccL	mitvon-rer-ler	4g	.	4e	.	4C	.
+8bJ	.	.	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4
+8aL	Schmer-Her-Kin-Sün-	4g	.	8AL	.	2D	.
+8gJ	.	.	.	8BJ	.	.	.
+4a	.	4f#	.	4c	.	.	.
+4g;	-zen,-zen.-der;-der.	4d;	.	4B;	.	4GG;	.
+=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!
+*>B	*	*>B	*	*>B	*	*>B	*
+4g	WirEs	4d	.	4B	.	4G	.
+=5	=5	=5	=5	=5	=5	=5	=5
+4a	hin-geht	8dL	.	4A	.	4F#	.
+.	.	8eJ	.	.	.	.	.
+4b	-genda-	4f#	.	4d	.	8EL	.
+.	.	.	.	.	.	8DJ	.
+8ccL	auf-hin,	4e	.	4G	.	4E	.
+8bJ	.	.	.	.	.	.	.
+4a	mitwird	8eL	.	4A	.	4F#	.
+.	.	8dJ	.	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6
+4b	schwe-matt	4d	.	(8A	.	4G	.
+.	.	.	.	4G)	.	.	.
+4a	-remund	4c	.	.	.	4D	.
+.	.	.	.	8F#	.	.	.
+4g;	Mutkrank,	4B;	.	4G;	.	4GG;	.
+8gL	dieer-	4e	.	4G	.	4C	.
+8aJ	.	.	.	.	.	.	.
+=7	=7	=7	=7	=7	=7	=7	=7
+4b	Har--gibt	4d	.	4G	.	8GL	.
+.	.	.	.	.	.	8FnJ	.
+4cc	-fensich	4e	.	4G	.	8EL	.
+.	.	.	.	.	.	8DJ	.
+4dd	undauf	4fn	.	4G	.	8CL	.
+.	.	.	.	.	.	8BBJ	.
+4ee	diedie	8eL	.	4G	.	8CL	.
+.	.	8f#J	.	.	.	8DJ	.
+=8	=8	=8	=8	=8	=8	=8	=8
+4b	Or-Wür-	8gL	.	8GL	.	4E	.
+.	.	8f#J	.	16AL	.	.	.
+.	.	.	.	16BJJ	.	.	.
+4cc#	-geln-ge-	8gL	.	4A	.	4AA	.
+.	.	8aJ	.	.	.	.	.
+4dd;	gut-bank,	4f#;	.	4A;	.	4D;	.
+8bL	anver-	4d	.	4G	.	8GL	.
+8ccnJ	.	.	.	.	.	8AJ	.
+=9	=9	=9	=9	=9	=9	=9	=9
+4dd	ih--zeiht	4g	.	8GL	.	4B	.
+.	.	.	.	8dJ	.	.	.
+4ee	-resich	4g	.	8cL	.	4c	.
+.	.	.	.	8BJ	.	.	.
+8ddL	Bäum'al-	4a	.	4A	.	4F#	.
+8ccJ	.	.	.	.	.	.	.
+4b	ler-ler	4b	.	4e	.	4G#	.
+=10	=10	=10	=10	=10	=10	=10	=10
+2cc	Wei-Freu-	8bL	.	2e	.	4A	.
+.	.	8g#J	.	.	.	.	.
+.	.	4a	.	.	.	4AA	.
+4b;	-den,-den;	4g#;	.	4e;	.	4E;	.
+4ee	diees	4b	.	8eL	.	4GG#	.
+.	.	.	.	8dJ	.	.	.
+=11	=11	=11	=11	=11	=11	=11	=11
+4ee	drin-nim-	4a	.	8cL	.	8AAL	.
+.	.	.	.	8BJ	.	8BBJ	.
+4ee	-nen-met	8eL	.	4A	.	8CL	.
+.	.	8cJ	.	.	.	8AAJ	.
+4a	sindan	8dL	.	8AL	.	4Fn	.
+.	.	8eJ	.	8G#J	.	.	.
+4dd	inSchmach,	4fn	.	8AL	.	8EL	.
+.	.	.	.	8BJ	.	8DJ	.
+=12	=12	=12	=12	=12	=12	=12	=12
+4cc	ih-Hohn	4e	.	(8G#	.	4E	.
+.	.	.	.	4A)	.	.	.
+4b	-remund	4d	.	.	.	4EE	.
+.	.	.	.	8G#	.	.	.
+4a;	Land;Spott,	4c;	.	4A;	.	4AA;	.
+4cc	daAngst,	4a	.	8EL	.	4AA	.
+.	.	.	.	8F#J	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13
+4b	muss-Wun-	8dL	.	4G	.	8BBL	.
+.	.	8eJ	.	.	.	8C#J	.
+4a	-ten-den,	4fn	.	8dL	.	4D	.
+.	.	.	.	8cJ	.	.	.
+4g	wirStrie-	8eL	.	4B-	.	4D	.
+.	.	8dJ	.	.	.	.	.
+8aL	viel-men,	4e	.	4A	.	4C#	.
+8gJ	.	.	.	.	.	.	.
+=14	=14	=14	=14	=14	=14	=14	=14
+4fn	SchmachKreuz	(8e	.	4A	.	4D	.
+.	.	4d)	.	.	.	.	.
+4e	undund	.	.	4G	.	4AA	.
+.	.	8c#	.	.	.	.	.
+4d;	Schand'Tod,	4d;	.	4F#;	.	4D;	.
+4d	täg-und	8dL	.	4F#	.	4BB	.
+.	.	8cnJ	.	.	.	.	.
+=15	=15	=15	=15	=15	=15	=15	=15
+4g	-lichspricht:	8BL	.	4G	.	4E	.
+.	.	8AJ	.	.	.	.	.
+4a	vonIch	8GL	.	4d	.	4D	.
+.	.	8F#J	.	.	.	.	.
+4.b	ih-will	4G	ih-	4d	ih-	8GL	ih-
+.	.	.	.	.	.	8F#J	.
+.	.	4g	.	4e	-nen	4E	-nen
+8cc	.	.	.	.	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16
+4dd	.	4f#	.	2d	lei-	8BBL	lei-
+.	.	.	.	.	.	8AAJ	.
+8ccL	-nengern	2g	-nen	.	.	4GG	.
+8bJ	.	.	.	.	.	.	.
+4a	lei-lei-	.	.	8eL	.	8CL	.
+.	.	.	.	8dJ	.	8BBJ	.
+8bL	.	[4g	lei-	4c	.	4AA	.
+8ccJ	.	.	.	.	.	.	.
+=17	=17	=17	=17	=17	=17	=17	=17
+2a	.	4g]	.	8dL	.	8DL	.
+.	.	.	.	8e	.	8CJ	.
+.	.	4f#	.	8d	.	4D	.
+.	.	.	.	8cJ	.	.	.
+4g;	-den.-den.	4d;	-den.	4B;	-den.	4GG;	-den.
+==|!	==|!	==|!	==|!	==|!	==|!	==|!	==|!
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!RWG: Key is interpreted using the Humdrum key tool.
+!!!END: 1994/05/06
+!!!EMD: Converted from MuseData to Humdrum Dec 19, 2000, by Andreas Kornstaedt using muse2kern.
+!!!EED: Craig Stuart Sapp
+!!!EEV: 2024/03/31
+!!!ONB: Some non-unicode characters

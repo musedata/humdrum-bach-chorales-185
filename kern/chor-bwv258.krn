@@ -1,0 +1,103 @@
+!!!COM: Bach, Johann Sebastian
+!!!OPR: Joh. Seb. Bachs vierstimmige Choralgesänge
+!!!XEN: Four-part Chorales
+!!!OTL: 6. Wo Gott der Herr nicht bei uns hält
+!!!SCT: BWV 258
+!!!SCA: Thematisch-systematisches Verzeichnis der musikalischen Werke Johann Sebastian Bach: Bach-Werke-Verzeichnis (Schmieder)
+!!!YOR: Bach Gesellschaft Edition xxxix
+!!!ENC: Steven Rasmussen
+!!!CDT: 1685/3//-1750/7/28/
+!!!OCY: Deutschland
+!!!YEC: Copyright (c) 1994, 2000 Center for Computer Assisted Research in the Humanities
+!!!YEM: Rights to all derivative editions reserved
+!!!YEN: United States of America
+**kern	**silbe	**kern	**kern	**kern
+*I:[SOPRANO]	*I:[SOPRANO]	*I:[ALTO]	*I:[TENORE]	*I:[BASSO]
+*>[A,A,B]	*	*>[A,A,B]	*>[A,A,B]	*>[A,A,B]
+*>A	*	*>A	*>A	*>A
+*clefG2	*	*clefG2	*clefGv2	*clefF4
+*k[f#c#]	*	*k[f#c#]	*k[f#c#]	*k[f#c#]
+*b:	*	*b:	*b:	*b:
+*M4/4	*	*M4/4	*M4/4	*M4/4
+4dd	Wound	8f#L	4d	4B
+.	.	8gJ	.	.
+=1	=1	=1	=1	=1
+4dd	GottEr	4a	4d	4F#
+8bL	derun-	4g	4d	4G
+8cc#J	.	.	.	.
+8ddL	Herr-srer	4a	4d	8F#L
+8eeJ	.	.	.	8EJ
+4ff#	nichtSach'	4a	4d	4D
+=2	=2	=2	=2	=2
+4ee	beinicht	4b	4d	4G#
+4ee	unszu-	8aL	4c#	4A
+.	.	8gJ	.	.
+4dd;	hÃ¤lt,-fÃ¤llt	4f#;	4A;	4D;
+4dd	wennim	4g#	4B	4BB
+=3	=3	=3	=3	=3
+4cc#	un-Him-	4a	4e	4AA
+8bL	-sre-mel	4g	4e	4E
+8cc#J	.	.	.	.
+4dd	Fein-hoch	4f#	8dL	8BL
+.	.	.	8c#J	8AJ
+8eeL	-dedort	8eL	4B	8GL
+8ddJ	.	8f#J	.	8F#J
+=4	=4	=4	=4	=4
+2cc#	to-o-	4g	4B	4E
+.	.	4f#	8A#L	4F#
+.	.	.	8eJ	.
+4b;	-ben,-ben,	4f#;	4d;	4BB;
+=:|!	=:|!	=:|!	=:|!	=:|!
+*>B	*	*>B	*>B	*>B
+4ee	wo	4a	4An	4C#
+=5	=5	=5	=5	=5
+4ff#	Er	4a	4A	8DL
+.	.	.	.	8EJ
+4ff#	I-	4a	8AL	8F#L
+.	.	.	8BJ	8GJ
+8cc#L	-sra-	8eL	4c#	4A
+8ddJ	.	8f#J	.	.
+4ee	-els	4g	4c#	4A#
+=6	=6	=6	=6	=6
+4dd	Schutz	4f#	8dL	4B
+.	.	.	8c#J	.
+4dd	nicht	4g#	4B	4E#
+4cc#;	ist	4a#;	4f#;	4F#;
+4dd	und	4b	4f#	8BL
+.	.	.	.	8AJ
+=7	=7	=7	=7	=7
+4ee	sel-	8bL	4B	8G#L
+.	.	8aJ	.	8F#J
+8bL	-ber	4g#	4e	4E
+8cc#J	.	.	.	.
+4dd	bricht	4f#	8AL	8F#L
+.	.	.	8BJ	8G#J
+4cc#	der	4e	4c#	4A
+=8	=8	=8	=8	=8
+4b	Fein-	4a	4f#	4D#
+4b	-de	4g#	8eL	4E
+.	.	.	8dJ	.
+4a;	List,	4e;	4c#;	4AA;
+4dd	so	4g#	4d	4BB
+=9	=9	=9	=9	=9
+4cc#	ist's	4a	4e	8C#L
+.	.	.	.	8DJ
+8bL	mit	8g#L	4e	4E
+8cc#J	.	8a#J	.	.
+4dd	uns	4b	4f#	8BL
+.	.	.	.	8AJ
+8eeL	ver-	8bL	4B	8GL
+8ddJ	.	8f#J	.	8F#J
+=10	=10	=10	=10	=10
+2cc#	-lo-	4g	4B	4E
+.	.	8f#L	4A#	4F#
+.	.	8eJ	.	.
+4b;	-ren.	4d;	4F#;	4BB;
+==|!	==|!	==|!	==|!	==|!
+*-	*-	*-	*-	*-
+!!!RWG: Key is interpreted using the Humdrum key tool.
+!!!END: 1994/05/03
+!!!EMD: Converted from MuseData to Humdrum Dec 19, 2000, by Andreas Kornstaedt using muse2kern.
+!!!EED: Craig Stuart Sapp
+!!!EEV: 2024/03/31
+!!!ONB: Some non-unicode characters

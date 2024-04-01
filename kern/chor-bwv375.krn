@@ -1,0 +1,104 @@
+!!!COM: Bach, Johann Sebastian
+!!!OPR: Joh. Seb. Bachs vierstimmige Choralges‰nge
+!!!XEN: Four-part Chorales
+!!!OTL: 122. Lobt Gott, ihr Christen allzugleich
+!!!SCT: BWV 375
+!!!SCA: Thematisch-systematisches Verzeichnis der musikalischen Werke Johann Sebastian Bach: Bach-Werke-Verzeichnis (Schmieder)
+!!!YOR: Bach Gesellschaft Edition xxxix
+!!!ENC: Steven Rasmussen
+!!!CDT: 1685/3//-1750/7/28/
+!!!OCY: Deutschland
+!!!YEC: Copyright (c) 1994, 2000 Center for Computer Assisted Research in the Humanities
+!!!YEM: Rights to all derivative editions reserved
+!!!YEN: United States of America
+**kern	**silbe	**kern	**kern	**kern
+*I:[SOPRANO]	*I:[SOPRANO]	*I:[ALTO]	*I:[TENORE]	*I:[BASSO]
+*clefG2	*	*clefG2	*clefGv2	*clefF4
+*k[f#]	*	*k[f#]	*k[f#]	*k[f#]
+*G:	*	*G:	*G:	*G:
+*M4/4	*	*M4/4	*M4/4	*M4/4
+4g	Lobt	4d	4B	4G
+=1	=1	=1	=1	=1
+4dd	Gott,	8dL	4A	4F#
+.	.	8eJ	.	.
+4dd	ihr	4f#	16ALL	4D
+.	.	.	16BJ	.
+.	.	.	8cJ	.
+4dd	Chri-	4g	8BL	8GL
+.	.	.	8AJ	8AJ
+4dd	-sten	8gL	4G	8BL
+.	.	8fnJ	.	8GJ
+=2	=2	=2	=2	=2
+4ee	all-	8eL	4G	4c
+.	.	8gJ	.	.
+8ddL	-zu-	4f#	4d	4d
+8ccJ	.	.	.	.
+4b;	-gleich,	4g;	4d;	4G;
+4a	in	4a	4d	4F#
+=3	=3	=3	=3	=3
+8bL	sei-	4g	4G	4E
+8cc#J	.	.	.	.
+4dd	-nem	4f#	8dL	8BL
+.	.	.	8c#J	8AJ
+4dd	h√∂ch-	4e	8BL	4G
+.	.	.	8eJ	.
+4cc#	-sten	4e	8aL	4A
+.	.	.	8gJ	.
+=4	=4	=4	=4	=4
+2.dd;	Thron;	2.d;	2.f#;	2.D;
+4dd	der	4f#	8dL	4D
+.	.	.	8cJ	.
+=5	=5	=5	=5	=5
+4dd	heut'	4g	8BL	8GL
+.	.	.	8cJ	8AJ
+4dd	auf-	4f#	8dL	8BL
+.	.	.	8cJ	8AJ
+8ddL	-schleusst	8gL	8BL	4.G
+8ccJ	.	8aJ	8cJ	.
+8bL	sein	8bL	4d	.
+8ccJ	.	8aJ	.	8A
+=6	=6	=6	=6	=6
+8ddL	Him-	4g	4d	4B
+8ccJ	.	.	.	.
+4b	-mel-	8gL	4e	4c
+.	.	16f#L	.	.
+.	.	16eJJ	.	.
+4a;	-reich	4f#;	4A;	4d;
+4dd	und	4f#	8BL	4B
+.	.	.	8AJ	.
+=7	=7	=7	=7	=7
+4cc	schenkt	4g	8GL	4E
+.	.	.	8AJ	.
+4b	uns	8gL	8BL	8EL
+.	.	8f#J	8dJ	8DJ
+4a	sei-	4e	4e	8CL
+.	.	.	.	8AAJ
+4a	-nen	4f#	4d	8DL
+.	.	.	.	8cJ
+=8	=8	=8	=8	=8
+8gL	Sohn,	4g	4d	4B
+8a	.	.	.	.
+8b	.	4f#	4c	4A
+8ccJ	.	.	.	.
+4dd;	.	4fn;	4B;	4G#;
+4dd	und	4e	4B	4GG#
+=9	=9	=9	=9	=9
+4cc	schenkt	8eL	8cL	4AA
+.	.	8f#J	8dJ	.
+4b	uns	8gL	4e	8EL
+.	.	8f#J	.	8DJ
+4a	sei-	4e	8eL	8CL
+.	.	.	8cJ	8AAJ
+4a	-nen	4f#	8AL	4D
+.	.	.	16BL	.
+.	.	.	16cJJ	.
+=10	=10	=10	=10	=10
+2.g;	Sohn.	2.d;	2.B;	2.GG;
+==|!	==|!	==|!	==|!	==|!
+*-	*-	*-	*-	*-
+!!!RWG: Key is interpreted using the Humdrum key tool.
+!!!END: 1994/07/18
+!!!EMD: Converted from MuseData to Humdrum Dec 19, 2000, by Andreas Kornstaedt using muse2kern.
+!!!EED: Craig Stuart Sapp
+!!!EEV: 2024/03/31
+!!!ONB: Some non-unicode characters

@@ -1,0 +1,155 @@
+!!!COM: Bach, Johann Sebastian
+!!!OPR: Joh. Seb. Bachs vierstimmige Choralges�nge
+!!!XEN: Four-part Chorales
+!!!OTL: 170. Was betr�bst du dich, mein Herze
+!!!SCT: BWV 423
+!!!SCA: Thematisch-systematisches Verzeichnis der musikalischen Werke Johann Sebastian Bach: Bach-Werke-Verzeichnis (Schmieder)
+!!!YOR: Bach Gesellschaft Edition xxxix
+!!!ENC: Steven Rasmussen
+!!!CDT: 1685/3//-1750/7/28/
+!!!OCY: Deutschland
+!!!YEC: Copyright (c) 1994, 2000 Center for Computer Assisted Research in the Humanities
+!!!YEM: Rights to all derivative editions reserved
+!!!YEN: United States of America
+**kern	**silbe	**kern	**kern	**kern
+*I:[SOPRANO]	*I:[SOPRANO]	*I:[ALTO]	*I:[TENORE]	*I:[BASSO]
+*clefG2	*	*clefG2	*clefGv2	*clefF4
+*k[b-]	*	*k[b-]	*k[b-]	*k[b-]
+*d:	*	*d:	*d:	*d:
+*M4/4	*	*M4/4	*M4/4	*M4/4
+=1-	=1-	=1-	=1-	=1-
+4dd	Was	8gL	8B-L	4.G
+.	.	16aL	16cL	.
+.	.	16b-JJ	16dJJ	.
+4cc	be-	4a	8e-L	.
+.	.	.	8dJ	8F#
+4b-	-trübst	8aL	4d	4G
+.	.	8gJ	.	.
+4a	du	8gL	8.dL	4D
+.	.	8f#J	.	.
+.	.	.	16cJk	.
+=2	=2	=2	=2	=2
+4b-	dich,	8dL	8B-L	4GG
+.	.	16gL	8dJ	.
+.	.	16fJJ	.	.
+8aL	mein	4e-	8cL	4C
+8gJ	.	.	8B-J	.
+4f#	Her-	4d	4A	4D
+4d;	-ze,	4A;	4F#;	4DD;
+=3	=3	=3	=3	=3
+4dd	wa-	8B-L	4G	8GGL
+.	.	8cJ	.	8AAJ
+4dd	-rum	4d	8gL	8BB-L
+.	.	.	8fJ	8GGJ
+4ee-	grämst	4G	16e-LL	8CL
+.	.	.	16dJ	.
+.	.	.	8cJ	8DJ
+4cc	du	4g	8cL	4E-
+.	.	.	8B-J	.
+=4	=4	=4	=4	=4
+4dd	dich	4.a	8AL	4FF#
+.	.	.	8dJ	.
+8ccL	in	.	4d	4GG
+8b-J	.	8g	.	.
+2a;	mir?	2f#;	2d;	2D;
+=5	=5	=5	=5	=5
+4dd	Sa-	4f#	4A	4D
+4cc	-ge,	8gL	8GL	8EL
+.	.	8aJ	8dJ	8F#J
+4b-	was	8aL	4d	4G
+.	.	8gJ	.	.
+4a	für	8gL	4d	4D
+.	.	8f#J	.	.
+=6	=6	=6	=6	=6
+4b-	Not	8gL	4d	4G
+.	.	8fJ	.	.
+8aL	dich	4e	8eL	4C#
+8gJ	.	.	8AJ	.
+4f#	schmer-	4d	4A	4D
+4d;	-ze,	4A;	4F#;	4DD;
+=7	=7	=7	=7	=7
+4dd	wa-	8B-L	8FL	4BB-
+.	.	8dJ	8B-J	.
+4dd	-rum	4f	8dL	8B-L
+.	.	.	8cJ	8AJ
+4ee-	ist	4.g	4B-	4G
+4cc	kein	.	4c	4A
+.	.	8f	.	.
+=8	=8	=8	=8	=8
+4dd	Mut	4f	8cL	4B-
+.	.	.	8B-J	.
+4cc	in	8.fL	8B-L	4F
+.	.	.	8AJ	.
+.	.	16e-Jk	.	.
+2b-;	dir?	2d;	2F;	2BB-;
+=9	=9	=9	=9	=9
+4dd	Was	4f	8dL	8B-L
+.	.	.	8cJ	8AJ
+4ee-	für	4g	4B-	4G
+4ff	Un-	4f	8B-L	4D
+.	.	.	8AJ	.
+4dd	-glück	8gL	4B-	4G
+.	.	8fJ	.	.
+=10	=10	=10	=10	=10
+4ee-	hat	8e-L	8B-L	4C
+.	.	8cJ	8AJ	.
+4dd	dich	4f	4B-	8DL
+.	.	.	.	8E-J
+8ddL	trof-	4f	8B-L	4F
+8ccJ	.	.	8AJ	.
+4cc;	-fen	4f;	4A;	4FF;
+=11	=11	=11	=11	=11
+4cc	und	4f	4A	8FL
+.	.	.	.	8E-J
+4dd	wo	4f	4B-	4D
+4ee-	bleibt	8gL	8B-L	4C
+.	.	8f#J	8AJ	.
+4dd	dein	4g	4B-	8GL
+.	.	.	.	8FJ
+=12	=12	=12	=12	=12
+4.cc	freu-	8gL	4c	4E-
+.	.	8f#xJ	.	.
+.	.	4gx	4c	4En
+8b-	-dig	.	.	.
+4a	Hof-	4fnx	4c	4F
+! G4     2    *   q     u        F           fen?	!	!	!	!
+! This is probably a misprint in BG for "F4", considering	!	!	!	!
+! the F-major triad formed by the other three voices,	!	!	!	!
+! which already includes the third of the chord.	!	!	!	!
+4f;	-fen?	4c;	4A;	4FF;
+=13	=13	=13	=13	=13
+4dd	Wo	8aL	4A	8F#L
+.	.	8gJ	.	8EJ
+4a	ist	4a	4d	8F#L
+.	.	.	.	8DJ
+4b-	dei-	8aL	4d	4G
+.	.	8gJ	.	.
+4a	-ne	8gL	4d	4D
+.	.	8f#J	.	.
+=14	=14	=14	=14	=14
+4b-	Zu-	4g	4d	8GL
+.	.	.	.	8FJ
+4cc	-ver-	4g	4e-	4E-
+2dd;	-sicht,	2f#;	2A;	2D;
+=15	=15	=15	=15	=15
+4dd	die	4g	4B-	4G
+4dd	zu	4g	4d	4BB-
+4cc	Gott	8gL	8e-L	4C
+.	.	8f#J	8dJ	.
+4b-	sonst	4g	4en	4C#
+=16	=16	=16	=16	=16
+4.a	war	8gL	8AL	4D
+.	.	16f#L	8dJ	.
+.	.	16eJJ	.	.
+.	.	4f#	8.dL	4DD
+8g	ge-	.	.	.
+.	.	.	16cJk	.
+2g;	-richt't?	2d;	2B-;	2GG;
+==|!	==|!	==|!	==|!	==|!
+*-	*-	*-	*-	*-
+!!!RWG: Key is interpreted using the Humdrum key tool.
+!!!END: 1994/08/03
+!!!EMD: Converted from MuseData to Humdrum Dec 19, 2000, by Andreas Kornstaedt using muse2kern.
+!!!EED: Craig Stuart Sapp
+!!!EEV: 2024/03/31
+!!!ONB: Some non-unicode characters

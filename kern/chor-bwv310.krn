@@ -1,0 +1,101 @@
+!!!COM: Bach, Johann Sebastian
+!!!OPR: Joh. Seb. Bachs vierstimmige Choralgesänge
+!!!XEN: Four-part Chorales
+!!!OTL: 57. Es wird schier der letzte Tag herkommen
+!!!SCT: BWV 310
+!!!SCA: Thematisch-systematisches Verzeichnis der musikalischen Werke Johann Sebastian Bach: Bach-Werke-Verzeichnis (Schmieder)
+!!!YOR: Bach Gesellschaft Edition xxxix
+!!!ENC: Steven Rasmussen
+!!!CDT: 1685/3//-1750/7/28/
+!!!OCY: Deutschland
+!!!YEC: Copyright (c) 1994, 2000 Center for Computer Assisted Research in the Humanities
+!!!YEM: Rights to all derivative editions reserved
+!!!YEN: United States of America
+**kern	**silbe	**kern	**kern	**kern
+*I:[SOPRANO]	*I:[SOPRANO]	*I:[ALTO]	*I:[TENORE]	*I:[BASSO]
+*clefG2	*	*clefG2	*clefGv2	*clefF4
+*k[f#]	*	*k[f#]	*k[f#]	*k[f#]
+*e:	*	*e:	*e:	*e:
+*M4/4	*	*M4/4	*M4/4	*M4/4
+=1-	=1-	=1-	=1-	=1-
+4e	Es	4B	4G	4.E
+4e	wird	4B	8GL	.
+.	.	.	8AJ	8F#
+4b	schier	8eL	4B	4G
+.	.	8f#J	.	.
+8bL	der	4g	4e	4E
+8ccJ	.	.	.	.
+=2	=2	=2	=2	=2
+4dd	letz-	8aL	4d	8F#L
+.	.	8f#J	.	8DJ
+4b	-te	8gL	4d	4G
+.	.	8f#J	.	.
+4g	Tag	4e	4.c	8cL
+.	.	.	.	8BJ
+8aL	her-	8f#L	.	8AL
+8bJ	.	8gJ	8d	8GJ
+=3	=3	=3	=3	=3
+2cc	-kom-	8gL	8cL	4A
+.	.	16f#L	16dL	.
+.	.	16eJJ	16eJJ	.
+.	.	4f#	4d	4D
+2b;	-men,	2g;	2d;	2G;
+=4	=4	=4	=4	=4
+4a	denn	4g	4e	4C#
+4a	die	8gL	8.dL	4D
+.	.	8f#J	.	.
+.	.	.	16cJk	.
+4g	Bos-	8f#L	4B	4E
+.	.	8eJ	.	.
+4a	-heit	8dL	4d	4F#
+.	.	8aJ	.	.
+=5	=5	=5	=5	=5
+4b	hat	8aL	4d	4G
+.	.	8gJ	.	.
+4a	sehr	8gL	4d	4D
+.	.	8f#J	.	.
+4g	zu-	4e	8dL	4E
+.	.	.	8c#J	.
+4f#	-ge-	8AL	8dL	4F#
+.	.	8dJ	8AJ	.
+=6	=6	=6	=6	=6
+2e	-nom-	8dL	8BL	8GL
+.	.	16c#L	8G	8E
+.	.	16BJJ	.	.
+.	.	4c#	8E	8A
+.	.	.	16AL	8AAJ
+.	.	.	16GJJ	.
+2d;	-men;	2A;	2F#;	2D;
+=7	=7	=7	=7	=7
+4g	was	4e	4B	4.E
+4f#	Chri-	4f#	4B	.
+.	.	.	.	8D#
+8gL	-stus	4e	4B	4E
+8aJ	.	.	.	.
+4b	hat	4e	4B	4GG
+=8	=8	=8	=8	=8
+8aL	vor	4e	4c	4AA
+8gJ	.	.	.	.
+4f#	ge-	4d#	8cL	4BB
+.	.	.	16BL	.
+.	.	.	16AJJ	.
+2e;	-sagt,	2e;	2G;	2C;
+=9	=9	=9	=9	=9
+4f#	das	4d#	4.B	8BBL
+.	.	.	.	8AAJ
+8eL	wird	8eL	.	8GGL
+8f#J	.	8d#J	8A	8FF#J
+4g	jetzt	4.e	4B	4EE
+4f#	be-	.	8.BL	4BB
+.	.	8d#	.	.
+.	.	.	16AJk	.
+=10	=10	=10	=10	=10
+1e;	-klagt.	1B;	1G#;	1E;
+==|!	==|!	==|!	==|!	==|!
+*-	*-	*-	*-	*-
+!!!RWG: Key is interpreted using the Humdrum key tool.
+!!!END: 1994/05/25
+!!!EMD: Converted from MuseData to Humdrum Dec 19, 2000, by Andreas Kornstaedt using muse2kern.
+!!!EED: Craig Stuart Sapp
+!!!EEV: 2024/03/31
+!!!ONB: Some non-unicode characters

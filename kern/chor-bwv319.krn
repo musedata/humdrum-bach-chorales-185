@@ -1,0 +1,111 @@
+!!!COM: Bach, Johann Sebastian
+!!!OPR: Joh. Seb. Bachs vierstimmige Choralges‰nge
+!!!XEN: Four-part Chorales
+!!!OTL: 66. Gott hat das Evangelium
+!!!SCT: BWV 319
+!!!SCA: Thematisch-systematisches Verzeichnis der musikalischen Werke Johann Sebastian Bach: Bach-Werke-Verzeichnis (Schmieder)
+!!!YOR: Bach Gesellschaft Edition xxxix
+!!!ENC: Steven Rasmussen
+!!!CDT: 1685/3//-1750/7/28/
+!!!OCY: Deutschland
+!!!YEC: Copyright (c) 1994, 2000 Center for Computer Assisted Research in the Humanities
+!!!YEM: Rights to all derivative editions reserved
+!!!YEN: United States of America
+**kern	**silbe	**kern	**kern	**kern
+*I:[SOPRANO]	*I:[SOPRANO]	*I:[ALTO]	*I:[TENORE]	*I:[BASSO]
+*clefG2	*	*clefG2	*clefGv2	*clefF4
+*k[f#]	*	*k[f#]	*k[f#]	*k[f#]
+*e:	*	*e:	*e:	*e:
+*M4/4	*	*M4/4	*M4/4	*M4/4
+4b	Gott	4g	4e	4E
+=1	=1	=1	=1	=1
+4b	hat	4f#	4B	4D#
+8bL	das	4g	4e	4E
+8ccJ	.	.	.	.
+8ddL	E-	4.a	4d	4F#
+8ccJ	.	.	.	.
+4b	-van-	.	4d	4G
+.	.	8g	.	.
+=2	=2	=2	=2	=2
+4a	-ge-	8gL	4e	4C
+.	.	16f#L	.	.
+.	.	16eJJ	.	.
+8bL	-li-	4f#	8dL	4D
+8aJ	.	.	8cJ	.
+4g;	-um	4d;	4B;	4GG;
+4b	ge-	4g	8dL	4G
+.	.	.	8eJ	.
+=3	=3	=3	=3	=3
+4b	-ge-	4a	4f#	4D#
+8bL	-ben,	4g	4e	4E
+8ccJ	.	.	.	.
+8ddL	dass	4f#	4d	4BB
+8ccJ	.	.	.	.
+4b	wir	4g	4e	8EL
+.	.	.	.	8DnJ
+=4	=4	=4	=4	=4
+4a	wer-	4g	4e	4C#
+4b	-den	4f#	4B	4D#
+4g;	fromm;	4e;	4B;	4E;
+4b	die	4g	4e	4E
+=5	=5	=5	=5	=5
+4cc	Welt	8gL	8eL	8EL
+.	.	8aJ	8dJ	8F#J
+4b	acht'	8aL	4d	4G
+.	.	8gJ	.	.
+4a	sol-	8gL	8eL	8C#L
+.	.	8f#J	8BJ	8D#J
+8gL	-chen	4e	4B	8EL
+8aJ	.	.	.	8F#J
+=6	=6	=6	=6	=6
+4b	Schatz	8eL	4.B	8GL
+.	.	16d#L	.	8AJ
+.	.	16c#JJ	.	.
+4f#	nicht	4d#	.	8BL
+.	.	.	8A	8BBJ
+4e;	hoch,	4e;	4G;	4C;
+4b	der	4g#	4d	4BB
+=7	=7	=7	=7	=7
+4cc	meh-	4a	8eL	4AA
+.	.	.	8f#J	.
+4b	-rer'	8dL	4g	8BBL
+.	.	8eJ	.	8CJ
+4a	Teil	4f#	8dL	4D
+.	.	.	8cJ	.
+8gL	fragt	4e	4B	4E
+8aJ	.	.	.	.
+=8	=8	=8	=8	=8
+4b	nichts	4e	4.B	8GGL
+.	.	.	.	8AAJ
+4f#	dar-	4d#	.	4BB
+.	.	.	8A	.
+4e;	-nach,	4e;	4G;	4EE;
+4b	das	4g	4e	4E
+=9	=9	=9	=9	=9
+4b	ist	8f#L	4B	8D#L
+.	.	8eJ	.	8C#J
+4a	ein	8f#L	4F#	8D#L
+.	.	8d#J	.	8BBJ
+8gL	Zei-	4B	8EL	4E
+8f#J	.	.	8F#J	.
+8eL	-chen	4B	8GL	4E
+8f#J	.	.	8AJ	.
+=10	=10	=10	=10	=10
+4g	vor	4e	4B	8EL
+.	.	.	.	8F#J
+4g	dem	4e	4B	8GL
+.	.	.	.	8EJ
+4a	j√ºng-	8eL	8cL	8CL
+.	.	8gJ	8eJ	8BBJ
+4a	-sten	8f#L	8d#L	4C
+.	.	8eJ	8eJ	.
+=11	=11	=11	=11	=11
+2.b;	Tag.	2.f#;	2.d#;	2.BB;
+==|!	==|!	==|!	==|!	==|!
+*-	*-	*-	*-	*-
+!!!RWG: Key is interpreted using the Humdrum key tool.
+!!!END: 1994/06/06
+!!!EMD: Converted from MuseData to Humdrum Dec 19, 2000, by Andreas Kornstaedt using muse2kern.
+!!!EED: Craig Stuart Sapp
+!!!EEV: 2024/03/31
+!!!ONB: Some non-unicode characters
